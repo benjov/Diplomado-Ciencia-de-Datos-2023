@@ -11,12 +11,12 @@ Este repositorio contiene los scripts, notebooks y demás materiales del Diploma
 El repositorio esta dividido en carpetas, cada una corresponde con cada uno de los módulos.
 
 ### Módulos
-I. Introducción a R, a Python y elementos básicos de estadística.
-II. Elementos de bases de datos y análisis estadísticos de datos.
-III. Introducción al Machine Learning: modelos básicos en R y Python
-IV. Aplicaciones de Machine Learning a través de R y Python.
-V. Herramientas de Visualización de Datos.
-VI. Temas selectos para el análisis de datos
+#### I. Introducción a R, a Python y elementos básicos de estadística.
+#### II. Elementos de bases de datos y análisis estadísticos de datos.
+#### III. Introducción al Machine Learning: modelos básicos en R y Python
+#### IV. Aplicaciones de Machine Learning a través de R y Python.
+#### V. Herramientas de Visualización de Datos.
+#### VI. Temas selectos para el análisis de datos
 
 ### Planta Docente
 - Dr. Javier Galán Figueroa
