@@ -33,7 +33,7 @@ ui <- fluidPage(
     mainPanel(
       
       # Output: Gráfica de precios
-      plotOutput( outputId = "grafico" )
+      plotOutput( outputId = "Acciones" )
       
     )
   )
@@ -87,8 +87,9 @@ server <- function(input, output) {
       filename = function(){"Data.csv"}, 
       content = function(fname){ write.csv(Data(), fname) } )
     #
-    output$grafico <- renderPlot({
-      # Gráfico de líneas para las series ORCL, AMD, IBM y NVDA
+    output$Acciones <- renderPlot({
+    
+    # Gráfico de líneas para las series ORCL, AMD, IBM y NVDA
       ggplot( DF_FINAL_Index, aes( x = Date ) ) +
         geom_line(aes(y = ORCL, color = "ORCL"), linewidth = 1) +
         geom_line(aes(y = AMD, color = "AMD"), linewidth = 1) +
