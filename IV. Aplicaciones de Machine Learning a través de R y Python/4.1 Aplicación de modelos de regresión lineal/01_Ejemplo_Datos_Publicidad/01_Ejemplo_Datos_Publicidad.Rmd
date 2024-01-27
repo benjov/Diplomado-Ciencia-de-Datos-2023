@@ -259,9 +259,9 @@ set.seed(1234) #
 trainIndex <- createDataPartition( advertising$sales , 
                                    p = 0.7 , times = 1, list = FALSE )
   
-advertising_Train <- advertising[ trainIndex, ]
+advertising_Train <- advertising[ trainIndex , ]
   
-advertising_Valid <- advertising[ -trainIndex, ]
+advertising_Valid <- advertising[ -trainIndex , ]
 
 ```
 

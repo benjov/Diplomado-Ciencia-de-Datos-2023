@@ -6,5 +6,5 @@
 3. Una oportunidad de compra la definiremos como aquella situación en la cual una casa tiene un precio que puede ser menor al promedio de casas similares o con características similares.
 4. Pude usar R o Python indistintamente. El estregable es un Rmarkdown o un Notebook de python con los resultados obtenidos.
 5. La actividad se puede realizar en equipos de 3 o 4 personas.
-
+6. La fecha límite de entrega es el martes 6 de febrero a las 11.59 pm.
 
