@@ -1,7 +1,7 @@
 ---
 title: "Annual Revenue Simulator"
 author: " "
-date: "2021"
+date: "2024"
 output:   
   html_document:
     css: styles.css
@@ -9,9 +9,9 @@ runtime: shiny
 ---
 
 ```{r, echo=FALSE, out.width = "100px"}
-#htmltools::img(src = "logo.png", width = "200", 
-#               alt = 'logo', 
-#               style ='position:absolute; top:0; left:20%; padding:1px;')
+htmltools::img(src = "logo.png", width = "200", 
+               alt = 'logo', 
+               style ='position:absolute; top:0; left:20%; padding:1px;')
 ```
 
 ```{r setup, include=FALSE}
@@ -170,7 +170,7 @@ pb = pb +
   labs(
     title = "Estimated probabilities",
     subtitle = "Results considering the selected configuration",
-    caption = "Source: benjov@ciencias.unam.mx"
+    caption = "Source: Prepared by Analítica Boutique"
   ) +
   xlab("Category")
 
