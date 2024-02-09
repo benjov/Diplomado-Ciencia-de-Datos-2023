@@ -268,7 +268,7 @@ stargazer(LOGIT_01, type = "text")
 
 LM_01_ME <- logitmfx(Cat.Rev.Year.Bin ~ Price + Score + Followers_n + positive_n + Adventure + Singleplayer + Story.Rich + Horror + X3D + Survival + Choices.Matter + Historical + Mystery + Replay.Value + Early.Access + Female.Protagonist + Lovecraftian + Open.World + Multiplayer + Co.op + Indie + Atmospheric + Violent + Online.Co.Op + Third.Person + Sandbox + Strategy + Difficult + Gore + Soundtrack + Great.Soundtrack + First.Person + Simulation + RPG + Character.Customization + Funny + Casual + Sci.fi + Exploration + Action + Sexual.Content, data = Train)
 
-#LM_01_ME
+LM_01_ME
 
 ```
 

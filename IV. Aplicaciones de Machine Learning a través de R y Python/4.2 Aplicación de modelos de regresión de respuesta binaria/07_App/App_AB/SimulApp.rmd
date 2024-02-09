@@ -9,15 +9,19 @@ runtime: shiny
 ---
 
 ```{r, echo=FALSE, out.width = "100px"}
+
 htmltools::img(src = "logo.png", width = "200", 
                alt = 'logo', 
-               style ='position:absolute; top:0; left:20%; padding:1px;')
+               style = 'position:absolute; top:0; left:20%; padding:1px;')
+
 ```
 
 ```{r setup, include=FALSE}
+
 knitr::opts_chunk$set(echo = TRUE)
 
 OLM_01 <- readRDS("OLM_01_model.rds")
+
 LOGIT_01 <- readRDS("LOGIT_01_model.rds")
 
 library(tidyverse)
