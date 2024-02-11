@@ -9,10 +9,10 @@ runtime: shiny
 ---
 
 ```{r, echo=FALSE, out.width = "100px"}
-
+#install.packages('htmltools')
 htmltools::img(src = "logo.png", width = "200", 
                alt = 'logo', 
-               style = 'position:absolute; top:0; left:20%; padding:1px;')
+               style = 'position:absolute; top:0; left:0%; padding:1px;')
 
 ```
 
@@ -134,7 +134,7 @@ renderPlot({
                        Simulation = input$Simulation, RPG = input$RPG, Character.Customization = input$Character.Customization,
                        Funny = input$Funny, Sci.fi = input$Sci.fi, Exploration = input$Exploration, 
                        Action = input$Action, Sexual.Content = input$Sexual.Content)
-setup_01[,5:39] =apply(setup_01[,5:39], 2, as.numeric)
+setup_01[,5:39] = apply(setup_01[,5:39], 2, as.numeric)
 
 ifelse(input$Model== 1,
         dt <- as.data.frame(cbind("Category"= names(predict(OLM_01, newdata = setup_01, type = "probs")),
@@ -180,6 +180,8 @@ pb = pb +
 
 pb
 }, width = "auto", height = "auto") # Podemos usar 400 u otro numero
+
+
 renderTable({
   
   setup_01 <- data.frame(Price = input$Price, Score = input$Score, Followers_n = factor(input$Followers), 
@@ -197,7 +199,7 @@ renderTable({
                        Funny = input$Funny, Sci.fi = input$Sci.fi, Exploration = input$Exploration, 
                        Action = input$Action, Sexual.Content = input$Sexual.Content)
   
-setup_01[,5:39] =apply(setup_01[,5:39], 2, as.numeric)
+setup_01[,5:39] = apply(setup_01[,5:39], 2, as.numeric)
 
 
 ifelse(input$Model== 1,

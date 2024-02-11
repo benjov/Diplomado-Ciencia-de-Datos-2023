@@ -1,5 +1,5 @@
 ---
-title: "07_Ejemplo_Conexión_ServicioWeb"
+title: "09_Ejemplo_Conexión_ServicioWeb"
 author: "Benjamín Oliva"
 date: "2024-02-03"
 output: html_document
@@ -119,40 +119,41 @@ Datos_PML$Periodo <- as.POSIXct( paste( Datos_PML$Fecha, Datos_PML$Hora, sep = "
 fig <- plot_ly( x = Datos_PML$Periodo, y = as.numeric( Datos_PML$PML_08MDN.115), name = '08MDN-115',
                 type = 'scatter', mode = 'lines', text = Datos_PML$Periodo, 
                 line = list(color = 'darkblue'),
-                hovertemplate = paste( '<b>Precio</b>: $%{y:.2f} en el momento: ',
+                hovertemplate = paste( '<b>Precio</b>: $%{y:,.2f} en el momento: ',
                                        '<b>%{text}</b>') )
 
 fig <- fig %>% add_trace( y = as.numeric( Datos_PML$PML_01NEC.85 ), name = '01NEC-85', 
                           type = 'scatter',  mode = 'lines', text = Datos_PML$Periodo, 
                           line = list(color = 'darkred'),
-                          hovertemplate = paste( '<b>Precio</b>: $%{y:.2f} en el momento: ',
+                          hovertemplate = paste( '<b>Precio</b>: $%{y:,.2f} en el momento: ',
                                                  '<b>%{text}</b>') )
 
 fig <- fig %>% add_trace( y = as.numeric( Datos_PML$PML_01ITD.115 ), name = '01ITD-115', 
                           type = 'scatter',  mode = 'lines', text = Datos_PML$Periodo, 
                           line = list(color = 'darkgreen'),
-                          hovertemplate = paste( '<b>Precio</b>: $%{y:.2f} en el momento: ',
+                          hovertemplate = paste( '<b>Precio</b>: $%{y:,.2f} en el momento: ',
                                                  '<b>%{text}</b>') )
 
 fig <- fig %>% add_trace( y = as.numeric( Datos_PML$PML_01PCC.85 ), name = '01PCC-85', 
                           type = 'scatter',  mode = 'lines', text = Datos_PML$Periodo, 
                           line = list(color = 'gold'),
-                          hovertemplate = paste( '<b>Precio</b>: $%{y:.2f} en el momento: ',
+                          hovertemplate = paste( '<b>Precio</b>: $%{y:,.2f} en el momento: ',
                                                  '<b>%{text}</b>') )
 
 fig <- fig %>% add_trace( y = as.numeric( Datos_PML$PML_06PTA.138 ), name = '06PTA.138', 
                           type = 'scatter',  mode = 'lines', text = Datos_PML$Periodo, 
                           line = list(color = 'orange'),
-                          hovertemplate = paste( '<b>Precio</b>: $%{y:.2f} en el momento: ',
+                          hovertemplate = paste( '<b>Precio</b>: $%{y:,.2f} en el momento: ',
                                                  '<b>%{text}</b>') )
     
-fig <- fig %>% layout(legend = list(x = 1.0, y = 0.5, orientation = 'v'))
+fig <- fig %>% layout(legend = list(x = 0.1, y = 1.0, orientation = 'h'))
     
 fig <- fig %>% layout( xaxis = list(title = "Time", tickangle = 0), 
                        yaxis = list(title = "MXN", tickformat = "$,"), 
                        font = list( family = "calibri", size = 14, color = 'black'))
 
 fig
+
 ```
 
 FIN
