@@ -1,0 +1,2901 @@
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+1 Aguascalientes Aguascalientes $20.03 $10.82
+1 Aguascalientes Asientos $20.03 $10.82
+1 Aguascalientes El Llano $20.03 $10.82
+1 Aguascalientes Jesús María $20.03 $10.82
+1 Aguascalientes Pabellón de Arteaga $20.03 $10.82
+1 Aguascalientes San Francisco de los Romo $20.03 $10.82
+1 Aguascalientes San José de Gracia $20.03 $10.82
+1 Aguascalientes Tepezalá $20.03 $10.82
+1 Jalisco Villa Hidalgo $20.03 $10.82
+1 Zacatecas Villa García $20.03 $10.82
+2 Zacatecas Apozol $20.57 $11.11
+2 Zacatecas Atolinga $20.57 $11.11
+2 Zacatecas Benito Juárez $20.57 $11.11
+2 Zacatecas El Plateado de Joaquín Amaro $20.57 $11.11
+2 Zacatecas Huanusco $20.57 $11.11
+2 Zacatecas Jalpa $20.57 $11.11
+2 Zacatecas Juchipila $20.57 $11.11
+2 Zacatecas Mezquital del Oro $20.57 $11.11
+2 Zacatecas Momax $20.57 $11.11
+2 Zacatecas Moyahua de Estrada $20.57 $11.11
+2 Zacatecas Santa María de la Paz $20.57 $11.11
+2 Zacatecas Tabasco $20.57 $11.11
+2 Zacatecas Tepechitlán $20.57 $11.11
+2 Zacatecas Teúl de González Ortega $20.57 $11.11
+2 Zacatecas Tlaltenango de Sánchez Román $20.57 $11.11
+2 Zacatecas Trinidad García de la Cadena $20.57 $11.11
+2 Aguascalientes Calvillo $20.57 $11.11
+3 Aguascalientes Cosío $20.91 $11.29
+3 Aguascalientes Rincón de Romos $20.91 $11.29
+3 Zacatecas Cuauhtémoc $20.91 $11.29
+3 Zacatecas Genaro Codina $20.91 $11.29
+3 Zacatecas Luis Moya $20.91 $11.29
+4 Baja California Ensenada $20.03 $10.82PRECIOS MÁXIMOS VIGENTES DEL 11 AL 17 DE FEBRERO DE 2024
+1 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+4 Baja California San Quintín $20.03 $10.82
+5 Baja California Playas de Rosarito $20.14 $10.88
+6 Baja California Sur Comondú $24.08 $13.00
+7 Baja California Sur La Paz $24.11 $13.02
+8 Baja California Sur Los Cabos $24.45 $13.20
+9 Baja California Sur Loreto $24.50 $13.23
+9 Baja California Sur Mulegé $24.50 $13.23
+10 Baja California San Felipe $20.14 $10.88
+10 Baja California Mexicali $20.14 $10.88
+10 Baja California Tecate $20.14 $10.88
+10 Baja California Tijuana $20.14 $10.88
+11 Campeche Campeche $19.88 $10.73
+11 Campeche Champotón $19.88 $10.73
+11 Campeche Seybaplaya $19.88 $10.73
+11 Campeche Tenabo $19.88 $10.73
+12 Campeche Carmen $19.47 $10.52
+13 Chiapas Cintalapa de Figueroa $19.76 $10.67
+14 Chiapas La Trinitaria $18.49 $9.99
+14 Chiapas Las Margaritas $18.49 $9.99
+14 Chiapas Maravilla Tenejapa $18.49 $9.99
+14 Chiapas Comitán de Domínguez $19.86 $10.73
+14 Chiapas La Independencia $19.86 $10.73
+14 Chiapas Las Rosas $19.86 $10.73
+14 Chiapas Socoltenango $19.86 $10.73
+14 Chiapas Tzimol $19.86 $10.73
+15 Chiapas Benemérito de las Américas $18.51 $9.99
+15 Chiapas Marqués de Comillas $18.51 $9.99
+15 Chiapas Ocosingo $18.51 $9.99
+15 Chiapas Altamirano $19.88 $10.73
+15 Chiapas Chanal $19.88 $10.73
+15 Chiapas Chilón $19.88 $10.73
+15 Chiapas Oxchuc $19.88 $10.73
+15 Chiapas Sabanilla $19.88 $10.73
+15 Chiapas Sitalá $19.88 $10.73
+15 Chiapas Tila $19.88 $10.73
+15 Chiapas Tumbalá $19.88 $10.73
+2 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+15 Chiapas Yajalón $19.88 $10.73
+16 Chiapas Aldama $19.30 $10.42
+16 Chiapas Amatenango del Valle $19.30 $10.42
+16 Chiapas Chalchihuitán $19.30 $10.42
+16 Chiapas Chamula $19.30 $10.42
+16 Chiapas Chenalhó $19.30 $10.42
+16 Chiapas El Bosque $19.30 $10.42
+16 Chiapas Huitiupán $19.30 $10.42
+16 Chiapas Huixtán $19.30 $10.42
+16 Chiapas Larráinzar $19.30 $10.42
+16 Chiapas Mitontic $19.30 $10.42
+16 Chiapas Pantelhó $19.30 $10.42
+16 Chiapas San Andrés Duraznal $19.30 $10.42
+16 Chiapas San Cristóbal de las Casas $19.30 $10.42
+16 Chiapas San Juan Cancuc $19.30 $10.42
+16 Chiapas Santiago el Pinar $19.30 $10.42
+16 Chiapas Simojovel $19.30 $10.42
+16 Chiapas Tenejapa $19.30 $10.42
+16 Chiapas Teopisca $19.30 $10.42
+16 Chiapas Zinacantán $19.30 $10.42
+17 Chiapas Amatenango de la Frontera $18.78 $10.14
+17 Chiapas Cacahoatán $18.78 $10.14
+17 Chiapas Frontera Comalapa $18.78 $10.14
+17 Chiapas Frontera Hidalgo $18.78 $10.14
+17 Chiapas Mazapa de Madero $18.78 $10.14
+17 Chiapas Metapa $18.78 $10.14
+17 Chiapas Motozintla $18.78 $10.14
+17 Chiapas Suchiate $18.78 $10.14
+17 Chiapas Tapachula $18.78 $10.14
+17 Chiapas Tuxtla Chico $18.78 $10.14
+17 Chiapas Unión Juárez $18.78 $10.14
+17 Chiapas Acacoyagua $20.17 $10.89
+17 Chiapas Acapetahua $20.17 $10.89
+17 Chiapas Bejucal de Ocampo $20.17 $10.89
+17 Chiapas Bella Vista $20.17 $10.89
+17 Chiapas Chicomuselo $20.17 $10.89
+3 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+17 Chiapas El Porvenir $20.17 $10.89
+17 Chiapas Escuintla $20.17 $10.89
+17 Chiapas Honduras de la Sierra $20.17 $10.89
+17 Chiapas Huehuetán $20.17 $10.89
+17 Chiapas Huixtla $20.17 $10.89
+17 Chiapas La Grandeza $20.17 $10.89
+17 Chiapas Mapastepec $20.17 $10.89
+17 Chiapas Mazatán $20.17 $10.89
+17 Chiapas Pijijiapan $20.17 $10.89
+17 Chiapas Siltepec $20.17 $10.89
+17 Chiapas Tuzantán $20.17 $10.89
+17 Chiapas Villa Comaltitlán $20.17 $10.89
+18 Chiapas Tonalá $19.48 $10.52
+19 Chiapas Acala $19.36 $10.45
+19 Chiapas Ángel Albino Corzo $19.36 $10.45
+19 Chiapas Berriozábal $19.36 $10.45
+19 Chiapas Bochil $19.36 $10.45
+19 Chiapas Capitán Luis Ángel Vidal $19.36 $10.45
+19 Chiapas Chiapa de Corzo $19.36 $10.45
+19 Chiapas Chiapilla $19.36 $10.45
+19 Chiapas Chicoasén $19.36 $10.45
+19 Chiapas Copainalá $19.36 $10.45
+19 Chiapas El Parral $19.36 $10.45
+19 Chiapas Emiliano Zapata $19.36 $10.45
+19 Chiapas Francisco León $19.36 $10.45
+19 Chiapas Ixtapa $19.36 $10.45
+19 Chiapas Jiquipilas $19.36 $10.45
+19 Chiapas La Concordia $19.36 $10.45
+19 Chiapas Mezcalapa $19.36 $10.45
+19 Chiapas Montecristo de Guerrero $19.36 $10.45
+19 Chiapas Nicolás Ruíz $19.36 $10.45
+19 Chiapas Ocozocoautla de Espinosa $19.36 $10.45
+19 Chiapas Osumacinta $19.36 $10.45
+19 Chiapas San Fernando $19.36 $10.45
+19 Chiapas San Lucas $19.36 $10.45
+19 Chiapas Soyaló $19.36 $10.45
+4 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+19 Chiapas Suchiapa $19.36 $10.45
+19 Chiapas Tecpatán $19.36 $10.45
+19 Chiapas Totolapa $19.36 $10.45
+19 Chiapas Tuxtla Gutiérrez $19.36 $10.45
+19 Chiapas Venustiano Carranza $19.36 $10.45
+19 Chiapas Villa Corzo $19.36 $10.45
+19 Chiapas Villaflores $19.36 $10.45
+20 Chihuahua Camargo $20.02 $10.81
+20 Chihuahua La Cruz $20.02 $10.81
+20 Chihuahua San Francisco de Conchos $20.02 $10.81
+21 Chihuahua Aldama $20.24 $10.93
+21 Chihuahua Aquiles Serdán $20.24 $10.93
+21 Chihuahua Chihuahua $20.24 $10.93
+21 Chihuahua Delicias $20.24 $10.93
+21 Chihuahua Rosales $20.24 $10.93
+21 Chihuahua Santa Isabel $20.24 $10.93
+21 Chihuahua Satevó $20.24 $10.93
+22 Chihuahua Bachíniva $20.21 $10.92
+22 Chihuahua Bocoyna $20.21 $10.92
+22 Chihuahua Carichí $20.21 $10.92
+22 Chihuahua Chínipas $20.21 $10.92
+22 Chihuahua Cuauhtémoc $20.21 $10.92
+22 Chihuahua Cusihuiriachi $20.21 $10.92
+22 Chihuahua Dr. Belisario Domínguez $20.21 $10.92
+22 Chihuahua Gran Morelos $20.21 $10.92
+22 Chihuahua Guazapares $20.21 $10.92
+22 Chihuahua Guerrero $20.21 $10.92
+22 Chihuahua Maguarichi $20.21 $10.92
+22 Chihuahua Moris $20.21 $10.92
+22 Chihuahua Ocampo $20.21 $10.92
+22 Chihuahua San Francisco de Borja $20.21 $10.92
+22 Chihuahua Urique $20.21 $10.92
+22 Chihuahua Uruachi $20.21 $10.92
+23 Chihuahua Batopilas de Manuel Gómez Morín $20.33 $10.98
+23 Chihuahua Guachochi $20.33 $10.98
+23 Chihuahua Guadalupe y Calvo $20.33 $10.98
+5 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+23 Chihuahua Morelos $20.33 $10.98
+23 Chihuahua Nonoava $20.33 $10.98
+24 Chihuahua Allende $20.50 $11.07
+24 Chihuahua Balleza $20.50 $11.07
+24 Chihuahua Coronado $20.50 $11.07
+24 Chihuahua El Tule $20.50 $11.07
+24 Chihuahua Hidalgo del Parral $20.50 $11.07
+24 Chihuahua Huejotitán $20.50 $11.07
+24 Chihuahua Matamoros $20.50 $11.07
+24 Chihuahua Rosario $20.50 $11.07
+24 Chihuahua San Francisco del Oro $20.50 $11.07
+24 Chihuahua Santa Bárbara $20.50 $11.07
+24 Chihuahua Valle de Zaragoza $20.50 $11.07
+25 Chihuahua Jiménez $20.28 $10.95
+25 Chihuahua López $20.28 $10.95
+26 Chihuahua Juárez $18.34 $9.90
+26 Chihuahua Ahumada $19.69 $10.63
+26 Chihuahua Buenaventura $19.69 $10.63
+27 Chihuahua Madera $20.39 $11.01
+27 Chihuahua Matachí $20.39 $11.01
+27 Chihuahua Temósachic $20.39 $11.01
+28 Chihuahua Julimes $20.26 $10.94
+28 Chihuahua Meoqui $20.26 $10.94
+28 Chihuahua Saucillo $20.26 $10.94
+29 Chihuahua Gómez Farías $20.86 $11.27
+29 Chihuahua Ignacio Zaragoza $20.86 $11.27
+29 Chihuahua Namiquipa $20.86 $11.27
+29 Chihuahua Riva Palacio $20.86 $11.27
+30 Chihuahua Ascensión $18.52 $10.00
+30 Chihuahua Janos $18.52 $10.00
+30 Chihuahua Casas Grandes $19.89 $10.74
+30 Chihuahua Galeana $19.89 $10.74
+30 Chihuahua Nuevo Casas Grandes $19.89 $10.74
+30 Sonora Bacadéhuachi $19.89 $10.74
+30 Sonora Nácori Chico $19.89 $10.74
+31 Chihuahua Coyame del Sotol $18.95 $10.23
+6 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+31 Chihuahua Guadalupe $18.95 $10.23
+31 Chihuahua Manuel Benavides $18.95 $10.23
+31 Chihuahua Ojinaga $18.95 $10.23
+31 Chihuahua Praxedis G. Guerrero $18.95 $10.23
+32 Ciudad de México Álvaro Obregón $19.17 $10.35
+32 Ciudad de México Azcapotzalco $19.17 $10.35
+32 Ciudad de México Benito Juárez $19.17 $10.35
+32 Ciudad de México Coyoacán $19.17 $10.35
+32 Ciudad de México Cuajimalpa de Morelos $19.17 $10.35
+32 Ciudad de México Cuauhtémoc $19.17 $10.35
+32 Ciudad de México Gustavo A. Madero $19.17 $10.35
+32 Ciudad de México Iztacalco $19.17 $10.35
+32 Ciudad de México Iztapalapa $19.17 $10.35
+32 Ciudad de México La Magdalena Contreras $19.17 $10.35
+32 Ciudad de México Miguel Hidalgo $19.17 $10.35
+32 Ciudad de México Milpa Alta $19.17 $10.35
+32 Ciudad de México Tláhuac $19.17 $10.35
+32 Ciudad de México Tlalpan $19.17 $10.35
+32 Ciudad de México Venustiano Carranza $19.17 $10.35
+32 Ciudad de México Xochimilco $19.17 $10.35
+32 Hidalgo Tizayuca $19.17 $10.35
+32 México Acolman $19.17 $10.35
+32 México Amecameca $19.17 $10.35
+32 México Apaxco $19.17 $10.35
+32 México Atenco $19.17 $10.35
+32 México Atizapán de Zaragoza $19.17 $10.35
+32 México Atlautla $19.17 $10.35
+32 México Chalco $19.17 $10.35
+32 México Chiautla $19.17 $10.35
+32 México Chicoloapan $19.17 $10.35
+32 México Chiconcuac $19.17 $10.35
+32 México Chimalhuacán $19.17 $10.35
+32 México Coacalco de Berriozábal $19.17 $10.35
+32 México Cocotitlán $19.17 $10.35
+32 México Cuautitlán $19.17 $10.35
+32 México Cuautitlán Izcalli $19.17 $10.35
+7 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+32 México Ecatepec de Morelos $19.17 $10.35
+32 México Ecatzingo $19.17 $10.35
+32 México Hueypoxtla $19.17 $10.35
+32 México Huixquilucan $19.17 $10.35
+32 México Ixtapaluca $19.17 $10.35
+32 México Juchitepec $19.17 $10.35
+32 México La Paz $19.17 $10.35
+32 México Melchor Ocampo $19.17 $10.35
+32 México Naucalpan de Juárez $19.17 $10.35
+32 México Nextlalpan $19.17 $10.35
+32 México Nezahualcóyotl $19.17 $10.35
+32 México Otumba $19.17 $10.35
+32 México Ozumba $19.17 $10.35
+32 México Papalotla $19.17 $10.35
+32 México San Martín de las Pirámides $19.17 $10.35
+32 México Temamatla $19.17 $10.35
+32 México Tepetlaoxtoc $19.17 $10.35
+32 México Tepetlixpa $19.17 $10.35
+32 México Tepotzotlán $19.17 $10.35
+32 México Tequixquiac $19.17 $10.35
+32 México Texcoco $19.17 $10.35
+32 México Tezoyuca $19.17 $10.35
+32 México Tlalmanalco $19.17 $10.35
+32 México Tlalnepantla de Baz $19.17 $10.35
+32 México Tultepec $19.17 $10.35
+32 México Tultitlán $19.17 $10.35
+32 México Valle de Chalco Solidaridad $19.17 $10.35
+32 México Zumpango $19.17 $10.35
+33 Coahuila de Zaragoza Acuña $19.00 $10.26
+34 Coahuila de Zaragoza Ocampo $19.20 $10.37
+34 Coahuila de Zaragoza Castaños $20.62 $11.13
+34 Coahuila de Zaragoza Cuatro Ciénegas $20.62 $11.13
+34 Coahuila de Zaragoza Lamadrid $20.62 $11.13
+34 Coahuila de Zaragoza Sacramento $20.62 $11.13
+34 Coahuila de Zaragoza Sierra Mojada $20.62 $11.13
+35 Coahuila de Zaragoza Abasolo $20.11 $10.86
+8 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+35 Coahuila de Zaragoza Escobedo $20.11 $10.86
+36 Coahuila de Zaragoza Francisco I. Madero $20.82 $11.24
+37 Coahuila de Zaragoza Guerrero $18.45 $9.96
+37 Coahuila de Zaragoza Hidalgo $18.45 $9.96
+38 Coahuila de Zaragoza Candela $19.93 $10.76
+38 Coahuila de Zaragoza Frontera $19.93 $10.76
+38 Coahuila de Zaragoza Monclova $19.93 $10.76
+38 Coahuila de Zaragoza Nadadores $19.93 $10.76
+38 Coahuila de Zaragoza San Buenaventura $19.93 $10.76
+39 Coahuila de Zaragoza Juárez $19.86 $10.72
+39 Coahuila de Zaragoza Múzquiz $19.86 $10.72
+39 Coahuila de Zaragoza Progreso $19.86 $10.72
+39 Coahuila de Zaragoza Sabinas $19.86 $10.72
+39 Coahuila de Zaragoza San Juan de Sabinas $19.86 $10.72
+40 Coahuila de Zaragoza Parras $20.53 $11.09
+41 Coahuila de Zaragoza Jiménez $18.93 $10.22
+41 Coahuila de Zaragoza Nava $18.93 $10.22
+41 Coahuila de Zaragoza Piedras Negras $18.93 $10.22
+41 Coahuila de Zaragoza Zaragoza $18.93 $10.22
+41 Coahuila de Zaragoza Allende $20.33 $10.98
+41 Coahuila de Zaragoza Morelos $20.33 $10.98
+41 Coahuila de Zaragoza Villa Unión $20.33 $10.98
+42 Coahuila de Zaragoza Arteaga $20.32 $10.97
+42 Coahuila de Zaragoza General Cepeda $20.32 $10.97
+42 Coahuila de Zaragoza Ramos Arizpe $20.32 $10.97
+42 Coahuila de Zaragoza Saltillo $20.32 $10.97
+43 Coahuila de Zaragoza San Pedro $20.74 $11.20
+44 Coahuila de Zaragoza Matamoros $19.79 $10.69
+44 Coahuila de Zaragoza Torreón $19.79 $10.69
+44 Coahuila de Zaragoza Viesca $19.79 $10.69
+44 Durango Gómez Palacio $19.79 $10.69
+44 Durango Lerdo $19.79 $10.69
+45 Colima Armería $19.89 $10.74
+45 Colima Colima $19.89 $10.74
+45 Colima Comala $19.89 $10.74
+45 Colima Coquimatlán $19.89 $10.74
+9 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+45 Colima Cuauhtémoc $19.89 $10.74
+45 Colima Ixtlahuacán $19.89 $10.74
+45 Colima Manzanillo $19.89 $10.74
+45 Colima Minatitlán $19.89 $10.74
+45 Colima Tecomán $19.89 $10.74
+45 Colima Villa de Álvarez $19.89 $10.74
+45 Jalisco Tonila $19.89 $10.74
+45 Michoacán de Ocampo Aquila $19.89 $10.74
+45 Michoacán de Ocampo Chinicuila $19.89 $10.74
+45 Michoacán de Ocampo Coahuayana $19.89 $10.74
+46 Durango Canatlán $21.13 $11.41
+47 Durango Cuencamé $21.06 $11.37
+47 Durango General Simón Bolívar $21.06 $11.37
+47 Durango Nazas $21.06 $11.37
+47 Durango Rodeo $21.06 $11.37
+47 Durango San Juan de Guadalupe $21.06 $11.37
+47 Durango San Luis del Cordero $21.06 $11.37
+47 Durango San Pedro del Gallo $21.06 $11.37
+48 Durango Durango $20.53 $11.09
+48 Durango Mezquital $20.53 $11.09
+49 Durango El Oro $21.27 $11.49
+49 Durango Indé $21.27 $11.49
+49 Durango San Bernardo $21.27 $11.49
+50 Durango Guadalupe Victoria $21.25 $11.47
+50 Durango Pánuco de Coronado $21.25 $11.47
+50 Durango Peñón Blanco $21.25 $11.47
+51 Durango Mapimí $20.81 $11.24
+51 Durango Tlahualilo $20.81 $11.24
+52 Durango Hidalgo $21.37 $11.54
+52 Durango Ocampo $21.37 $11.54
+53 Durango Nombre de Dios $20.43 $11.03
+53 Durango Poanas $20.43 $11.03
+54 Durango Pueblo Nuevo $21.87 $11.81
+54 Durango San Dimas $21.87 $11.81
+55 Durango Coneto de Comonfort $21.88 $11.81
+55 Durango San Juan del Río $21.88 $11.81
+10 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+56 Durango Nuevo Ideal $20.99 $11.33
+56 Durango Otáez $20.99 $11.33
+56 Durango Santiago Papasquiaro $20.99 $11.33
+57 Durango Canelas $21.35 $11.53
+57 Durango Guanaceví $21.35 $11.53
+57 Durango Tepehuanes $21.35 $11.53
+57 Durango Topia $21.35 $11.53
+58 Durango Súchil $21.21 $11.46
+58 Durango Vicente Guerrero $21.21 $11.46
+59 Guanajuato Acámbaro $19.79 $10.69
+59 Guanajuato Coroneo $19.79 $10.69
+59 Guanajuato Jerécuaro $19.79 $10.69
+59 Guanajuato Salvatierra $19.79 $10.69
+59 Guanajuato Santiago Maravatío $19.79 $10.69
+59 Guanajuato Tarandacuao $19.79 $10.69
+59 Michoacán de Ocampo Álvaro Obregón $19.79 $10.69
+59 Michoacán de Ocampo Epitacio Huerta $19.79 $10.69
+59 Michoacán de Ocampo Santa Ana Maya $19.79 $10.69
+59 Michoacán de Ocampo Zinapécuaro $19.79 $10.69
+60 Guanajuato Apaseo el Alto $19.75 $10.66
+60 Guanajuato Apaseo el Grande $19.75 $10.66
+60 Guanajuato Celaya $19.75 $10.66
+60 Guanajuato Comonfort $19.75 $10.66
+60 Guanajuato Santa Cruz de Juventino Rosas $19.75 $10.66
+60 Guanajuato Tarimoro $19.75 $10.66
+61 Guanajuato Cortazar $20.13 $10.87
+61 Guanajuato Villagrán $20.13 $10.87
+62 Guanajuato Abasolo $19.76 $10.67
+62 Guanajuato Cuerámaro $19.76 $10.67
+62 Guanajuato Huanímaro $19.76 $10.67
+62 Guanajuato Irapuato $19.76 $10.67
+62 Guanajuato Pueblo Nuevo $19.76 $10.67
+62 Michoacán de Ocampo José Sixto Verduzco $19.76 $10.67
+63 Guanajuato León $19.91 $10.75
+63 Jalisco Lagos de Moreno $19.91 $10.75
+64 Guanajuato Pénjamo $19.42 $10.49
+11 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+65 Guanajuato Salamanca $20.09 $10.85
+66 Guanajuato Ocampo $20.77 $11.22
+66 Guanajuato San Felipe $20.77 $11.22
+67 Guanajuato Manuel Doblado $20.07 $10.84
+67 Guanajuato Purísima del Rincón $20.07 $10.84
+67 Guanajuato San Francisco del Rincón $20.07 $10.84
+68 Guanajuato Atarjea $19.61 $10.59
+68 Guanajuato Doctor Mora $19.61 $10.59
+68 Guanajuato San José Iturbide $19.61 $10.59
+68 Guanajuato San Luis de la Paz $19.61 $10.59
+68 Guanajuato Santa Catarina $19.61 $10.59
+68 Guanajuato Tierra Blanca $19.61 $10.59
+68 Guanajuato Victoria $19.61 $10.59
+68 Guanajuato Xichú $19.61 $10.59
+69 GuanajuatoDolores Hidalgo Cuna de la 
+Independencia Nacional$19.56 $10.56
+69 Guanajuato San Diego de la Unión $19.56 $10.56
+69 Guanajuato San Miguel de Allende $19.56 $10.56
+70 Guanajuato Guanajuato $19.84 $10.72
+70 Guanajuato Romita $19.84 $10.72
+70 Guanajuato Silao de la Victoria $19.84 $10.72
+71 Guanajuato Jaral del Progreso $19.95 $10.77
+71 Guanajuato Valle de Santiago $19.95 $10.77
+72 Guanajuato Moroleón $19.79 $10.69
+72 Guanajuato Uriangato $19.79 $10.69
+72 Guanajuato Yuriria $19.79 $10.69
+72 Michoacán de Ocampo Cuitzeo $19.79 $10.69
+73 Guerrero Acapulco de Juárez $20.10 $10.86
+73 Guerrero Ayutla de los Libres $20.10 $10.86
+73 Guerrero Florencio Villarreal $20.10 $10.86
+73 Guerrero San Marcos $20.10 $10.86
+73 Guerrero Tecoanapa $20.10 $10.86
+73 Guerrero Las Vigas $20.10 $10.86
+73 Guerrero Ñuu Savi $20.10 $10.86
+74 Guerrero Chilapa de Álvarez $19.53 $10.55
+74 Guerrero Chilpancingo de los Bravo $19.53 $10.55
+12 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+74 Guerrero General Heliodoro Castillo $19.53 $10.55
+74 Guerrero José Joaquín de Herrera $19.53 $10.55
+74 Guerrero Juan R. Escudero $19.53 $10.55
+74 Guerrero Leonardo Bravo $19.53 $10.55
+74 Guerrero Mártir de Cuilapan $19.53 $10.55
+74 Guerrero Mochitlán $19.53 $10.55
+74 Guerrero Quechultenango $19.53 $10.55
+74 Guerrero Tixtla de Guerrero $19.53 $10.55
+75 Guerrero Atoyac de Álvarez $19.75 $10.66
+75 Guerrero Benito Juárez $19.75 $10.66
+75 Guerrero Coyuca de Benítez $19.75 $10.66
+75 Guerrero Técpan de Galeana $19.75 $10.66
+76 Guerrero Ajuchitlán del Progreso $19.72 $10.65
+76 Guerrero Coyuca de Catalán $19.72 $10.65
+76 Guerrero Pungarabato $19.72 $10.65
+76 Guerrero San Miguel Totolapan $19.72 $10.65
+76 Guerrero Tlapehuala $19.72 $10.65
+76 Guerrero Zirándaro $19.72 $10.65
+77 Guerrero Apaxtla $19.96 $10.78
+77 Guerrero Atenango del Río $19.96 $10.78
+77 Guerrero Buenavista de Cuéllar $19.96 $10.78
+77 Guerrero Cocula $19.96 $10.78
+77 Guerrero Copalillo $19.96 $10.78
+77 Guerrero Cuetzala del Progreso $19.96 $10.78
+77 Guerrero Eduardo Neri $19.96 $10.78
+77 Guerrero Huitzuco de los Figueroa $19.96 $10.78
+77 Guerrero Iguala de la Independencia $19.96 $10.78
+77 Guerrero Pedro Ascencio Alquisiras $19.96 $10.78
+77 Guerrero Pilcaya $19.96 $10.78
+77 Guerrero Teloloapan $19.96 $10.78
+77 Guerrero Tepecoacuilco de Trujano $19.96 $10.78
+77 Guerrero Zitlala $19.96 $10.78
+77 México Almoloya de Alquisiras $19.96 $10.78
+77 México Ixtapan de la Sal $19.96 $10.78
+77 México Sultepec $19.96 $10.78
+77 México Tenancingo $19.96 $10.78
+13 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+77 México Texcaltitlán $19.96 $10.78
+77 México Tonatico $19.96 $10.78
+77 México Zacualpan $19.96 $10.78
+77 México Zumpahuacán $19.96 $10.78
+77 Morelos Coatlán del Río $19.96 $10.78
+77 Morelos Tetecala $19.96 $10.78
+78 Guerrero Azoyú $20.29 $10.96
+78 Guerrero Cuajinicuilapa $20.29 $10.96
+78 Guerrero Igualapa $20.29 $10.96
+78 Guerrero Juchitán $20.29 $10.96
+78 Guerrero Ometepec $20.29 $10.96
+78 Guerrero Tlacoachistlahuaca $20.29 $10.96
+78 Guerrero Xochistlahuaca $20.29 $10.96
+78 Guerrero San Nicolás $20.29 $10.96
+79 Guerrero Ixcateopan de Cuauhtémoc $19.46 $10.51
+79 Guerrero Taxco de Alarcón $19.46 $10.51
+79 Guerrero Tetipac $19.46 $10.51
+80 Guerrero Acatepec $19.61 $10.59
+80 Guerrero Ahuacuotzingo $19.61 $10.59
+80 Guerrero Alcozauca de Guerrero $19.61 $10.59
+80 Guerrero Alpoyeca $19.61 $10.59
+80 Guerrero Atlamajalcingo del Monte $19.61 $10.59
+80 Guerrero Atlixtac $19.61 $10.59
+80 Guerrero Cochoapa el Grande $19.61 $10.59
+80 Guerrero Copala $19.61 $10.59
+80 Guerrero Copanatoyac $19.61 $10.59
+80 Guerrero Cualác $19.61 $10.59
+80 Guerrero Cuautepec $19.61 $10.59
+80 Guerrero Huamuxtitlán $19.61 $10.59
+80 Guerrero Iliatenco $19.61 $10.59
+80 Guerrero Malinaltepec $19.61 $10.59
+80 Guerrero Marquelia $19.61 $10.59
+80 Guerrero Metlatónoc $19.61 $10.59
+80 Guerrero Olinalá $19.61 $10.59
+80 Guerrero San Luis Acatlán $19.61 $10.59
+80 Guerrero Tlacoapa $19.61 $10.59
+14 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+80 Guerrero Tlalixtaquilla de Maldonado $19.61 $10.59
+80 Guerrero Tlapa de Comonfort $19.61 $10.59
+80 Guerrero Xalpatláhuac $19.61 $10.59
+80 Guerrero Zapotitlán Tablas $19.61 $10.59
+80 Oaxaca Calihualá $19.61 $10.59
+80 Oaxaca Coicoyán de las Flores $19.61 $10.59
+80 Oaxaca Constancia del Rosario $19.61 $10.59
+80 Oaxaca Ixpantepec Nieves $19.61 $10.59
+80 Oaxaca Putla Villa de Guerrero $19.61 $10.59
+80 Oaxaca San Francisco Tlapancingo $19.61 $10.59
+80 Oaxaca San Juan Bautista Tlachichilco $19.61 $10.59
+80 Oaxaca San Juan Ihualtepec $19.61 $10.59
+80 Oaxaca San Martín Itunyoso $19.61 $10.59
+80 Oaxaca San Martín Peras $19.61 $10.59
+80 Oaxaca San Miguel Ahuehuetitlán $19.61 $10.59
+80 Oaxaca San Miguel Tlacotepec $19.61 $10.59
+80 Oaxaca San Sebastián Tecomaxtlahuaca $19.61 $10.59
+80 Oaxaca Santa Cruz de Bravo $19.61 $10.59
+80 Oaxaca Santa Lucía Monteverde $19.61 $10.59
+80 Oaxaca Santa María Yucuhiti $19.61 $10.59
+80 Oaxaca Santiago del Río $19.61 $10.59
+80 Oaxaca Santiago Juxtlahuaca $19.61 $10.59
+80 Oaxaca Santiago Nuyoó $19.61 $10.59
+80 Oaxaca Santiago Tamazola $19.61 $10.59
+80 Oaxaca Santiago Yucuyachi $19.61 $10.59
+80 Oaxaca Santo Tomás Ocotepec $19.61 $10.59
+80 Oaxaca Silacayoápam $19.61 $10.59
+80 Oaxaca Mesones Hidalgo $19.61 $10.59
+80 Oaxaca San Antonio Tepetlapa $19.61 $10.59
+80 Oaxaca San Juan Cacahuatepec $19.61 $10.59
+80 Oaxaca San Pedro Amuzgos $19.61 $10.59
+80 Oaxaca Santa María Ipalapa $19.61 $10.59
+80 Oaxaca Santa María Zacatepec $19.61 $10.59
+80 Puebla Ixcamilpa de Guerrero $19.61 $10.59
+80 Guerrero Santa Cruz del Rincón $19.61 $10.59
+81 Guerrero Coahuayutla de José María Izazaga $20.25 $10.93
+15 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+81 Guerrero La Unión de Isidoro Montes de Oca $20.25 $10.93
+81 Guerrero Petatlán $20.25 $10.93
+81 Guerrero Zihuatanejo de Azueta $20.25 $10.93
+82 Hidalgo Almoloya $19.87 $10.73
+82 Hidalgo Apan $19.87 $10.73
+82 Hidalgo Emiliano Zapata $19.87 $10.73
+82 Tlaxcala Benito Juárez $19.87 $10.73
+82 Tlaxcala Españita $19.87 $10.73
+82 Tlaxcala Nanacamilpa de Mariano Arista $19.87 $10.73
+82 Tlaxcala Sanctórum de Lázaro Cárdenas $19.87 $10.73
+83 Hidalgo Atitalaquia $19.16 $10.35
+84 Hidalgo Acatlán $19.61 $10.59
+84 Hidalgo Acaxochitlán $19.61 $10.59
+84 Hidalgo Actopan $19.61 $10.59
+84 Hidalgo Agua Blanca de Iturbide $19.61 $10.59
+84 Hidalgo Ajacuba $19.61 $10.59
+84 Hidalgo Alfajayucan $19.61 $10.59
+84 Hidalgo Atotonilco de Tula $19.61 $10.59
+84 Hidalgo Atotonilco el Grande $19.61 $10.59
+84 Hidalgo Cardonal $19.61 $10.59
+84 Hidalgo Chapantongo $19.61 $10.59
+84 Hidalgo Chilcuautla $19.61 $10.59
+84 Hidalgo Cuautepec de Hinojosa $19.61 $10.59
+84 Hidalgo El Arenal $19.61 $10.59
+84 Hidalgo Eloxochitlán $19.61 $10.59
+84 Hidalgo Epazoyucan $19.61 $10.59
+84 Hidalgo Francisco I. Madero $19.61 $10.59
+84 Hidalgo Huasca de Ocampo $19.61 $10.59
+84 Hidalgo Huehuetla $19.61 $10.59
+84 Hidalgo Huichapan $19.61 $10.59
+84 Hidalgo Ixmiquilpan $19.61 $10.59
+84 Hidalgo Jacala de Ledezma $19.61 $10.59
+84 Hidalgo Juárez Hidalgo $19.61 $10.59
+84 Hidalgo La Misión $19.61 $10.59
+84 Hidalgo Lolotla $19.61 $10.59
+84 Hidalgo Metepec $19.61 $10.59
+16 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+84 Hidalgo Metztitlán $19.61 $10.59
+84 Hidalgo Mineral de la Reforma $19.61 $10.59
+84 Hidalgo Mineral del Chico $19.61 $10.59
+84 Hidalgo Mineral del Monte $19.61 $10.59
+84 Hidalgo Mixquiahuala de Juárez $19.61 $10.59
+84 Hidalgo Molango de Escamilla $19.61 $10.59
+84 Hidalgo Nicolás Flores $19.61 $10.59
+84 Hidalgo Nopala de Villagrán $19.61 $10.59
+84 Hidalgo Omitlán de Juárez $19.61 $10.59
+84 Hidalgo Pachuca de Soto $19.61 $10.59
+84 Hidalgo Pacula $19.61 $10.59
+84 Hidalgo Progreso de Obregón $19.61 $10.59
+84 Hidalgo San Agustín Metzquititlán $19.61 $10.59
+84 Hidalgo San Agustín Tlaxiaca $19.61 $10.59
+84 Hidalgo San Bartolo Tutotepec $19.61 $10.59
+84 Hidalgo San Salvador $19.61 $10.59
+84 Hidalgo Santiago de Anaya $19.61 $10.59
+84 HidalgoSantiago Tulantepec de Lugo 
+Guerrero$19.61 $10.59
+84 Hidalgo Singuilucan $19.61 $10.59
+84 Hidalgo Tasquillo $19.61 $10.59
+84 Hidalgo Tenango de Doria $19.61 $10.59
+84 Hidalgo Tepeapulco $19.61 $10.59
+84 Hidalgo Tepeji del Río de Ocampo $19.61 $10.59
+84 Hidalgo Tepetitlán $19.61 $10.59
+84 Hidalgo Tetepango $19.61 $10.59
+84 Hidalgo Tianguistengo $19.61 $10.59
+84 Hidalgo Tlahuelilpan $19.61 $10.59
+84 Hidalgo Tlahuiltepa $19.61 $10.59
+84 Hidalgo Tlanalapa $19.61 $10.59
+84 Hidalgo Tlaxcoapan $19.61 $10.59
+84 Hidalgo Tula de Allende $19.61 $10.59
+84 Hidalgo Tulancingo de Bravo $19.61 $10.59
+84 Hidalgo Xochicoatlán $19.61 $10.59
+84 Hidalgo Zacualtipán de Ángeles $19.61 $10.59
+84 Hidalgo Zempoala $19.61 $10.59
+17 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+84 Hidalgo Zimapán $19.61 $10.59
+84 México Acambay de Ruíz Castañeda $19.61 $10.59
+84 México Aculco $19.61 $10.59
+84 México Amanalco $19.61 $10.59
+84 México Atlacomulco $19.61 $10.59
+84 México Chapa de Mota $19.61 $10.59
+84 México El Oro $19.61 $10.59
+84 México Jilotepec $19.61 $10.59
+84 México Jocotitlán $19.61 $10.59
+84 México Morelos $19.61 $10.59
+84 México Polotitlán $19.61 $10.59
+84 México San José del Rincón $19.61 $10.59
+84 México Soyaniquilpan de Juárez $19.61 $10.59
+84 México Temascalcingo $19.61 $10.59
+84 México Timilpan $19.61 $10.59
+84 México Villa del Carbón $19.61 $10.59
+84 México Villa Victoria $19.61 $10.59
+84 Puebla Honey $19.61 $10.59
+84 Puebla Pahuatlán $19.61 $10.59
+84 Puebla Tlacuilotepec $19.61 $10.59
+84 Puebla Tlaxco $19.61 $10.59
+84 Veracruz de Ignacio de la Llave Huayacocotla $19.61 $10.59
+85 Hidalgo Tezontepec de Aldama $20.11 $10.86
+86 Jalisco Arandas $19.85 $10.72
+86 Jalisco Jesús María $19.85 $10.72
+87 Jalisco Atotonilco el Alto $20.30 $10.96
+87 Jalisco Ayotlán $20.30 $10.96
+88 Jalisco Autlán de Navarro $19.66 $10.61
+88 Jalisco Ayutla $19.66 $10.61
+88 Jalisco Casimiro Castillo $19.66 $10.61
+88 Jalisco Cuautla $19.66 $10.61
+88 Jalisco Ejutla $19.66 $10.61
+88 Jalisco El Grullo $19.66 $10.61
+88 Jalisco El Limón $19.66 $10.61
+88 Jalisco Unión de Tula $19.66 $10.61
+88 Jalisco Villa Purificación $19.66 $10.61
+18 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+89 Jalisco Cihuatlán $19.51 $10.54
+89 Jalisco Cuautitlán de García Barragán $19.51 $10.54
+89 Jalisco La Huerta $19.51 $10.54
+90 Jalisco Atengo $20.04 $10.82
+90 Jalisco Cocula $20.04 $10.82
+90 Jalisco Juchitlán $20.04 $10.82
+90 Jalisco Tecolotlán $20.04 $10.82
+90 Jalisco Tenamaxtlán $20.04 $10.82
+91 Jalisco Colotlán $20.80 $11.23
+91 Jalisco Huejúcar $20.80 $11.23
+91 Jalisco Santa María de los Ángeles $20.80 $11.23
+92 Jalisco Ixtlahuacán de los Membrillos $19.90 $10.74
+93 Jalisco Atenguillo $20.27 $10.95
+93 Jalisco Mascota $20.27 $10.95
+93 Jalisco Mixtlán $20.27 $10.95
+93 Jalisco Puerto Vallarta $20.27 $10.95
+93 Jalisco Talpa de Allende $20.27 $10.95
+93 Nayarit Bahía de Banderas $20.27 $10.95
+94 Jalisco Encarnación de Díaz $20.12 $10.87
+94 Jalisco Jalostotitlán $20.12 $10.87
+94 Jalisco San Juan de los Lagos $20.12 $10.87
+95 Jalisco Cañadas de Obregón $19.40 $10.48
+95 Jalisco San Ignacio Cerro Gordo $19.40 $10.48
+95 Jalisco San Julián $19.40 $10.48
+95 Jalisco San Miguel el Alto $19.40 $10.48
+95 Jalisco Valle de Guadalupe $19.40 $10.48
+96 Jalisco Teocaltiche $19.50 $10.53
+96 Zacatecas Apulco $19.50 $10.53
+96 Zacatecas Nochistlán de Mejía $19.50 $10.53
+97 Jalisco Acatic $20.06 $10.83
+97 Jalisco Tepatitlán de Morelos $20.06 $10.83
+98 Jalisco Cabo Corrientes $19.99 $10.79
+98 Jalisco Tomatlán $19.99 $10.79
+99 Jalisco San Diego de Alejandría $20.37 $11.00
+99 Jalisco Unión de San Antonio $20.37 $11.00
+100 Jalisco Cuquío $20.29 $10.95
+19 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+100 Jalisco Mexticacán $20.29 $10.95
+100 Jalisco Yahualica de González Gallo $20.29 $10.95
+101 Jalisco Acatlán de Juárez $19.59 $10.58
+101 Jalisco Ahualulco de Mercado $19.59 $10.58
+101 Jalisco Amacueca $19.59 $10.58
+101 Jalisco Amatitán $19.59 $10.58
+101 Jalisco Ameca $19.59 $10.58
+101 Jalisco Atemajac de Brizuela $19.59 $10.58
+101 Jalisco Atoyac $19.59 $10.58
+101 Jalisco Chapala $19.59 $10.58
+101 Jalisco Concepción de Buenos Aires $19.59 $10.58
+101 Jalisco El Arenal $19.59 $10.58
+101 Jalisco El Salto $19.59 $10.58
+101 Jalisco Etzatlán $19.59 $10.58
+101 Jalisco Guadalajara $19.59 $10.58
+101 Jalisco Hostotipaquillo $19.59 $10.58
+101 Jalisco Ixtlahuacán del Río $19.59 $10.58
+101 Jalisco Jocotepec $19.59 $10.58
+101 Jalisco Juanacatlán $19.59 $10.58
+101 Jalisco La Manzanilla de la Paz $19.59 $10.58
+101 Jalisco Magdalena $19.59 $10.58
+101 Jalisco Mazamitla $19.59 $10.58
+101 Jalisco Poncitlán $19.59 $10.58
+101 Jalisco San Cristóbal de la Barranca $19.59 $10.58
+101 Jalisco San Juanito de Escobedo $19.59 $10.58
+101 Jalisco San Marcos $19.59 $10.58
+101 Jalisco San Martín Hidalgo $19.59 $10.58
+101 Jalisco San Pedro Tlaquepaque $19.59 $10.58
+101 Jalisco Santa María del Oro $19.59 $10.58
+101 Jalisco Tala $19.59 $10.58
+101 Jalisco Tamazula de Gordiano $19.59 $10.58
+101 Jalisco Techaluta de Montenegro $19.59 $10.58
+101 Jalisco Teocuitatlán de Corona $19.59 $10.58
+101 Jalisco Tequila $19.59 $10.58
+101 Jalisco Teuchitlán $19.59 $10.58
+101 Jalisco Tlajomulco de Zúñiga $19.59 $10.58
+20 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+101 Jalisco Tonalá $19.59 $10.58
+101 Jalisco Valle de Juárez $19.59 $10.58
+101 Jalisco Villa Corona $19.59 $10.58
+101 Jalisco Zacoalco de Torres $19.59 $10.58
+101 Jalisco Zapopan $19.59 $10.58
+101 Jalisco Zapotlán del Rey $19.59 $10.58
+101 Michoacán de Ocampo Marcos Castellanos $19.59 $10.58
+102 Jalisco Chiquilistlán $19.70 $10.64
+102 Jalisco Gómez Farías $19.70 $10.64
+102 Jalisco Pihuamo $19.70 $10.64
+102 Jalisco San Gabriel $19.70 $10.64
+102 Jalisco Sayula $19.70 $10.64
+102 Jalisco Tapalpa $19.70 $10.64
+102 Jalisco Tolimán $19.70 $10.64
+102 Jalisco Tonaya $19.70 $10.64
+102 Jalisco Tuxcacuesco $19.70 $10.64
+102 Jalisco Tuxpan $19.70 $10.64
+102 Jalisco Zapotiltic $19.70 $10.64
+102 Jalisco Zapotitlán de Vadillo $19.70 $10.64
+102 Jalisco Zapotlán el Grande $19.70 $10.64
+103 Jalisco Zapotlanejo $20.30 $10.96
+104 México Axapusco $19.42 $10.49
+104 México Nopaltepec $19.42 $10.49
+105 México Coyotepec $19.11 $10.32
+105 México Huehuetoca $19.11 $10.32
+105 México Teoloyucan $19.11 $10.32
+106 México Isidro Fabela $19.56 $10.56
+106 México Jilotzingo $19.56 $10.56
+106 México Nicolás Romero $19.56 $10.56
+107 México San Simón de Guerrero $20.17 $10.89
+108 México Jaltenco $19.51 $10.53
+108 México Tecámac $19.51 $10.53
+108 México Teotihuacán $19.51 $10.53
+108 México Tonanitla $19.51 $10.53
+109 Guerrero Arcelia $19.66 $10.61
+109 Guerrero Cutzamala de Pinzón $19.66 $10.61
+21 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+109 Guerrero General Canuto A. Neri $19.66 $10.61
+109 Guerrero Tlalchapa $19.66 $10.61
+109 México Amatepec $19.66 $10.61
+109 México Ixtapan del Oro $19.66 $10.61
+109 México Luvianos $19.66 $10.61
+109 México Otzoloapan $19.66 $10.61
+109 México Santo Tomás $19.66 $10.61
+109 México Tejupilco $19.66 $10.61
+109 México Temascaltepec $19.66 $10.61
+109 México Tlatlaya $19.66 $10.61
+109 México Valle de Bravo $19.66 $10.61
+109 México Zacazonapan $19.66 $10.61
+110 Hidalgo Tolcayuca $19.22 $10.38
+110 Hidalgo Villa de Tezontepec $19.22 $10.38
+110 Hidalgo Zapotlán de Juárez $19.22 $10.38
+110 México Temascalapa $19.22 $10.38
+111 México Ayapango $19.14 $10.34
+111 México Tenango del Aire $19.14 $10.34
+112 México Almoloya de Juárez $19.55 $10.55
+112 México Almoloya del Río $19.55 $10.55
+112 México Atizapán $19.55 $10.55
+112 México Calimaya $19.55 $10.55
+112 México Capulhuac $19.55 $10.55
+112 México Chapultepec $19.55 $10.55
+112 México Coatepec Harinas $19.55 $10.55
+112 México Ixtlahuaca $19.55 $10.55
+112 México Jiquipilco $19.55 $10.55
+112 México Joquicingo $19.55 $10.55
+112 México Lerma $19.55 $10.55
+112 México Malinalco $19.55 $10.55
+112 México Metepec $19.55 $10.55
+112 México Mexicaltzingo $19.55 $10.55
+112 México Ocoyoacac $19.55 $10.55
+112 México Ocuilan $19.55 $10.55
+112 México Otzolotepec $19.55 $10.55
+112 México Rayón $19.55 $10.55
+22 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+112 México San Antonio la Isla $19.55 $10.55
+112 México San Felipe del Progreso $19.55 $10.55
+112 México San Mateo Atenco $19.55 $10.55
+112 México Temoaya $19.55 $10.55
+112 México Tenango del Valle $19.55 $10.55
+112 México Texcalyacac $19.55 $10.55
+112 México Tianguistenco $19.55 $10.55
+112 México Toluca $19.55 $10.55
+112 México Villa Guerrero $19.55 $10.55
+112 México Xalatlaco $19.55 $10.55
+112 México Xonacatlán $19.55 $10.55
+112 México Zinacantepec $19.55 $10.55
+113 Jalisco Jilotlán de los Dolores $20.33 $10.98
+113 Jalisco Tecalitlán $20.33 $10.98
+113 Michoacán de Ocampo Aguililla $20.33 $10.98
+113 Michoacán de Ocampo Apatzingán $20.33 $10.98
+113 Michoacán de Ocampo Arteaga $20.33 $10.98
+113 Michoacán de Ocampo Buenavista $20.33 $10.98
+113 Michoacán de Ocampo Churumuco $20.33 $10.98
+113 Michoacán de Ocampo Coalcomán de Vázquez Pallares $20.33 $10.98
+113 Michoacán de Ocampo Parácuaro $20.33 $10.98
+113 Michoacán de Ocampo Tepalcatepec $20.33 $10.98
+113 Michoacán de Ocampo Tumbiscatío $20.33 $10.98
+114 Michoacán de Ocampo Contepec $19.09 $10.31
+114 Michoacán de Ocampo Hidalgo $19.09 $10.31
+114 Michoacán de Ocampo Maravatío $19.09 $10.31
+114 Michoacán de Ocampo Tlalpujahua $19.09 $10.31
+114 Michoacán de Ocampo Tuxpan $19.09 $10.31
+115 Michoacán de Ocampo Carácuaro $19.63 $10.60
+115 Michoacán de Ocampo Huetamo $19.63 $10.60
+115 Michoacán de Ocampo Nocupétaro $19.63 $10.60
+115 Michoacán de Ocampo San Lucas $19.63 $10.60
+115 Michoacán de Ocampo Tiquicheo de Nicolás Romero $19.63 $10.60
+116 Jalisco Degollado $20.08 $10.84
+116 Jalisco Jamay $20.08 $10.84
+116 Jalisco La Barca $20.08 $10.84
+23 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+116 Jalisco Ocotlán $20.08 $10.84
+116 Jalisco Tototlán $20.08 $10.84
+116 Michoacán de Ocampo Briseñas $20.08 $10.84
+116 Michoacán de Ocampo La Piedad $20.08 $10.84
+116 Michoacán de Ocampo Numarán $20.08 $10.84
+116 Michoacán de Ocampo Penjamillo $20.08 $10.84
+116 Michoacán de Ocampo Tanhuato $20.08 $10.84
+116 Michoacán de Ocampo Vista Hermosa $20.08 $10.84
+116 Michoacán de Ocampo Yurécuaro $20.08 $10.84
+117 Michoacán de Ocampo Lázaro Cárdenas $20.22 $10.92
+118 Michoacán de Ocampo Cotija $20.43 $11.03
+118 Michoacán de Ocampo Los Reyes $20.43 $11.03
+118 Michoacán de Ocampo Peribán $20.43 $11.03
+118 Michoacán de Ocampo Tancítaro $20.43 $11.03
+118 Michoacán de Ocampo Tingüindín $20.43 $11.03
+118 Michoacán de Ocampo Tocumbo $20.43 $11.03
+119 Michoacán de Ocampo Acuitzio $19.87 $10.73
+119 Michoacán de Ocampo Charo $19.87 $10.73
+119 Michoacán de Ocampo Chucándiro $19.87 $10.73
+119 Michoacán de Ocampo Copándaro $19.87 $10.73
+119 Michoacán de Ocampo Huandacareo $19.87 $10.73
+119 Michoacán de Ocampo Indaparapeo $19.87 $10.73
+119 Michoacán de Ocampo Madero $19.87 $10.73
+119 Michoacán de Ocampo Morelia $19.87 $10.73
+119 Michoacán de Ocampo Morelos $19.87 $10.73
+119 Michoacán de Ocampo Queréndaro $19.87 $10.73
+119 Michoacán de Ocampo Tarímbaro $19.87 $10.73
+119 Michoacán de Ocampo Tzitzio $19.87 $10.73
+120 Michoacán de Ocampo Angamacutiro $19.98 $10.79
+120 Michoacán de Ocampo Cherán $19.98 $10.79
+120 Michoacán de Ocampo Coeneo $19.98 $10.79
+120 Michoacán de Ocampo Erongarícuaro $19.98 $10.79
+120 Michoacán de Ocampo Huaniqueo $19.98 $10.79
+120 Michoacán de Ocampo Huiramba $19.98 $10.79
+120 Michoacán de Ocampo Jiménez $19.98 $10.79
+120 Michoacán de Ocampo Lagunillas $19.98 $10.79
+24 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+120 Michoacán de Ocampo Nahuatzen $19.98 $10.79
+120 Michoacán de Ocampo Panindícuaro $19.98 $10.79
+120 Michoacán de Ocampo Paracho $19.98 $10.79
+120 Michoacán de Ocampo Pátzcuaro $19.98 $10.79
+120 Michoacán de Ocampo Quiroga $19.98 $10.79
+120 Michoacán de Ocampo Tingambato $19.98 $10.79
+120 Michoacán de Ocampo Tzintzuntzan $19.98 $10.79
+120 Michoacán de Ocampo Zacapu $19.98 $10.79
+120 Michoacán de Ocampo Ziracuaretiro $19.98 $10.79
+121 Michoacán de Ocampo Churintzio $19.81 $10.69
+121 Michoacán de Ocampo Purépero $19.81 $10.69
+121 Michoacán de Ocampo Tlazazalca $19.81 $10.69
+121 Michoacán de Ocampo Zináparo $19.81 $10.69
+122 Michoacán de Ocampo Puruándiro $20.11 $10.86
+123 Jalisco Quitupan $19.82 $10.71
+123 Jalisco Tizapán el Alto $19.82 $10.71
+123 Jalisco Tuxcueca $19.82 $10.71
+123 Michoacán de Ocampo Cojumatlán de Régules $19.82 $10.71
+123 Michoacán de Ocampo Jiquilpan $19.82 $10.71
+123 Michoacán de Ocampo Pajacuarán $19.82 $10.71
+123 Michoacán de Ocampo Sahuayo $19.82 $10.71
+123 Michoacán de Ocampo Venustiano Carranza $19.82 $10.71
+123 Michoacán de Ocampo Villamar $19.82 $10.71
+124 Michoacán de Ocampo Aporo $19.37 $10.46
+124 Michoacán de Ocampo Irimbo $19.37 $10.46
+124 Michoacán de Ocampo Senguio $19.37 $10.46
+125 Michoacán de Ocampo Ario $19.83 $10.71
+125 Michoacán de Ocampo Gabriel Zamora $19.83 $10.71
+125 Michoacán de Ocampo La Huacana $19.83 $10.71
+125 Michoacán de Ocampo Múgica $19.83 $10.71
+125 Michoacán de Ocampo Nuevo Urecho $19.83 $10.71
+125 Michoacán de Ocampo Salvador Escalante $19.83 $10.71
+125 Michoacán de Ocampo Tacámbaro $19.83 $10.71
+125 Michoacán de Ocampo Turicato $19.83 $10.71
+126 Michoacán de Ocampo Charapan $20.23 $10.92
+126 Michoacán de Ocampo Nuevo Parangaricutiro $20.23 $10.92
+25 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+126 Michoacán de Ocampo Taretan $20.23 $10.92
+126 Michoacán de Ocampo Uruapan $20.23 $10.92
+127 Michoacán de Ocampo Chavinda $19.96 $10.78
+127 Michoacán de Ocampo Chilchota $19.96 $10.78
+127 Michoacán de Ocampo Ecuandureo $19.96 $10.78
+127 Michoacán de Ocampo Ixtlán $19.96 $10.78
+127 Michoacán de Ocampo Jacona $19.96 $10.78
+127 Michoacán de Ocampo Tangamandapio $19.96 $10.78
+127 Michoacán de Ocampo Tangancícuaro $19.96 $10.78
+127 Michoacán de Ocampo Zamora $19.96 $10.78
+128 México Donato Guerra $19.21 $10.37
+128 México Villa de Allende $19.21 $10.37
+128 Michoacán de Ocampo Angangueo $19.21 $10.37
+128 Michoacán de Ocampo Juárez $19.21 $10.37
+128 Michoacán de Ocampo Jungapeo $19.21 $10.37
+128 Michoacán de Ocampo Ocampo $19.21 $10.37
+128 Michoacán de Ocampo Susupuato $19.21 $10.37
+128 Michoacán de Ocampo Tuzantla $19.21 $10.37
+128 Michoacán de Ocampo Zitácuaro $19.21 $10.37
+129 Morelos Atlatlahucan $19.18 $10.36
+129 Morelos Axochiapan $19.18 $10.36
+129 Morelos Ayala $19.18 $10.36
+129 Morelos Cuautla $19.18 $10.36
+129 Morelos Hueyapan $19.18 $10.36
+129 Morelos Jantetelco $19.18 $10.36
+129 Morelos Jonacatepec de Leandro Valle $19.18 $10.36
+129 Morelos Ocuituco $19.18 $10.36
+129 Morelos Temoac $19.18 $10.36
+129 Morelos Tepalcingo $19.18 $10.36
+129 Morelos Tetela del Volcán $19.18 $10.36
+129 Morelos Tlalnepantla $19.18 $10.36
+129 Morelos Tlayacapan $19.18 $10.36
+129 Morelos Totolapan $19.18 $10.36
+129 Morelos Yecapixtla $19.18 $10.36
+129 Morelos Zacualpan de Amilpas $19.18 $10.36
+129 Puebla Acteopan $19.18 $10.36
+26 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+129 Puebla Cohuecan $19.18 $10.36
+129 Puebla Teotlalco $19.18 $10.36
+129 Puebla Tepemaxalco $19.18 $10.36
+130 Morelos Amacuzac $19.42 $10.49
+130 Morelos Coatetelco $19.42 $10.49
+130 Morelos Cuernavaca $19.42 $10.49
+130 Morelos Emiliano Zapata $19.42 $10.49
+130 Morelos Huitzilac $19.42 $10.49
+130 Morelos Jiutepec $19.42 $10.49
+130 Morelos Jojutla $19.42 $10.49
+130 Morelos Mazatepec $19.42 $10.49
+130 Morelos Miacatlán $19.42 $10.49
+130 Morelos Puente de Ixtla $19.42 $10.49
+130 Morelos Temixco $19.42 $10.49
+130 Morelos Tepoztlán $19.42 $10.49
+130 Morelos Tlaltizapán de Zapata $19.42 $10.49
+130 Morelos Tlaquiltenango $19.42 $10.49
+130 Morelos Xochitepec $19.42 $10.49
+130 Morelos Xoxocotla $19.42 $10.49
+130 Morelos Yautepec $19.42 $10.49
+130 Morelos Zacatepec $19.42 $10.49
+131 Jalisco Guachinango $20.00 $10.80
+131 Jalisco San Sebastián del Oeste $20.00 $10.80
+131 Nayarit Acaponeta $20.00 $10.80
+131 Nayarit Ahuacatlán $20.00 $10.80
+131 Nayarit Amatlán de Cañas $20.00 $10.80
+131 Nayarit Compostela $20.00 $10.80
+131 Nayarit Del Nayar $20.00 $10.80
+131 Nayarit Huajicori $20.00 $10.80
+131 Nayarit Ixtlán del Río $20.00 $10.80
+131 Nayarit Jala $20.00 $10.80
+131 Nayarit La Yesca $20.00 $10.80
+131 Nayarit Rosamorada $20.00 $10.80
+131 Nayarit Ruíz $20.00 $10.80
+131 Nayarit San Blas $20.00 $10.80
+131 Nayarit San Pedro Lagunillas $20.00 $10.80
+27 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+131 Nayarit Santa María del Oro $20.00 $10.80
+131 Nayarit Santiago Ixcuintla $20.00 $10.80
+131 Nayarit Tecuala $20.00 $10.80
+131 Nayarit Tepic $20.00 $10.80
+131 Nayarit Tuxpan $20.00 $10.80
+131 Nayarit Xalisco $20.00 $10.80
+132 Nuevo León Allende $20.11 $10.86
+132 Nuevo León Apodaca $20.11 $10.86
+132 Nuevo León Cadereyta Jiménez $20.11 $10.86
+132 Nuevo León Doctor González $20.11 $10.86
+132 Nuevo León Guadalupe $20.11 $10.86
+132 Nuevo León Juárez $20.11 $10.86
+132 Nuevo León Pesquería $20.11 $10.86
+132 Nuevo León Santiago $20.11 $10.86
+133 Nuevo León Agualeguas $20.06 $10.83
+133 Nuevo León Cerralvo $20.06 $10.83
+133 Nuevo León General Treviño $20.06 $10.83
+133 Nuevo León Los Aldamas $20.06 $10.83
+133 Nuevo León Los Herreras $20.06 $10.83
+133 Nuevo León Melchor Ocampo $20.06 $10.83
+133 Nuevo León Parás $20.06 $10.83
+134 Nuevo León Aramberri $21.24 $11.47
+134 Nuevo León Doctor Arroyo $21.24 $11.47
+134 Nuevo León General Zaragoza $21.24 $11.47
+134 Nuevo León Mier y Noriega $21.24 $11.47
+135 Nuevo León China $19.65 $10.61
+135 Nuevo León Doctor Coss $19.65 $10.61
+135 Nuevo León Galeana $19.65 $10.61
+135 Nuevo León General Bravo $19.65 $10.61
+135 Nuevo León General Terán $19.65 $10.61
+135 Nuevo León Hualahuises $19.65 $10.61
+135 Nuevo León Iturbide $19.65 $10.61
+135 Nuevo León Linares $19.65 $10.61
+135 Nuevo León Los Ramones $19.65 $10.61
+135 Nuevo León Montemorelos $19.65 $10.61
+135 Nuevo León Rayones $19.65 $10.61
+28 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+135 Tamaulipas Burgos $19.65 $10.61
+136 Nuevo León Abasolo $20.09 $10.85
+136 Nuevo León Ciénega de Flores $20.09 $10.85
+136 Nuevo León El Carmen $20.09 $10.85
+136 Nuevo León García $20.09 $10.85
+136 Nuevo León General Escobedo $20.09 $10.85
+136 Nuevo León General Zuazua $20.09 $10.85
+136 Nuevo León Hidalgo $20.09 $10.85
+136 Nuevo León Higueras $20.09 $10.85
+136 Nuevo León Marín $20.09 $10.85
+136 Nuevo León Mina $20.09 $10.85
+136 Nuevo León Monterrey $20.09 $10.85
+136 Nuevo León Salinas Victoria $20.09 $10.85
+136 Nuevo León San Nicolás de los Garza $20.09 $10.85
+136 Nuevo León San Pedro Garza García $20.09 $10.85
+136 Nuevo León Santa Catarina $20.09 $10.85
+137 Nuevo León Bustamante $19.21 $10.37
+137 Nuevo León Lampazos de Naranjo $19.21 $10.37
+137 Nuevo León Sabinas Hidalgo $19.21 $10.37
+137 Nuevo León Vallecillo $19.21 $10.37
+137 Nuevo León Villaldama $19.21 $10.37
+138 Oaxaca Asunción Cuyotepeji $19.93 $10.76
+138 Oaxaca Fresnillo de Trujano $19.93 $10.76
+138 Oaxaca Guadalupe de Ramírez $19.93 $10.76
+138 OaxacaHeroica Ciudad de Huajuapan de 
+León$19.93 $10.76
+138 OaxacaHeroica Villa Tezoatlán de Segura y 
+Luna, Cuna de la Independencia de 
+Oaxaca$19.93 $10.76
+138 Oaxaca La Trinidad Vista Hermosa $19.93 $10.76
+138 Oaxaca Mariscala de Juárez $19.93 $10.76
+138 Oaxaca San Agustín Atenango $19.93 $10.76
+138 Oaxaca San Andrés Dinicuiti $19.93 $10.76
+138 Oaxaca San Antonino Monte Verde $19.93 $10.76
+138 Oaxaca San Antonio Acutla $19.93 $10.76
+138 Oaxaca San Cristóbal Suchixtlahuaca $19.93 $10.76
+29 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+138 Oaxaca San Jerónimo Silacayoapilla $19.93 $10.76
+138 Oaxaca San Jorge Nuchita $19.93 $10.76
+138 Oaxaca San José Ayuquila $19.93 $10.76
+138 Oaxaca San Juan Bautista Coixtlahuaca $19.93 $10.76
+138 Oaxaca San Juan Ñumí $19.93 $10.76
+138 Oaxaca San Lorenzo Victoria $19.93 $10.76
+138 Oaxaca San Marcos Arteaga $19.93 $10.76
+138 Oaxaca San Martín Zacatepec $19.93 $10.76
+138 Oaxaca San Mateo Tlapiltepec $19.93 $10.76
+138 Oaxaca San Miguel Amatitlán $19.93 $10.76
+138 Oaxaca San Miguel Tequixtepec $19.93 $10.76
+138 Oaxaca San Miguel Tulancingo $19.93 $10.76
+138 Oaxaca San Nicolás Hidalgo $19.93 $10.76
+138 Oaxaca San Pedro Nopala $19.93 $10.76
+138 Oaxaca San Sebastián Nicananduta $19.93 $10.76
+138 Oaxaca San Simón Zahuatlán $19.93 $10.76
+138 Oaxaca Santa Cruz Tacache de Mina $19.93 $10.76
+138 Oaxaca Santa Magdalena Jicotlán $19.93 $10.76
+138 Oaxaca Santa María Camotlán $19.93 $10.76
+138 Oaxaca Santa María Nativitas $19.93 $10.76
+138 Oaxaca Santiago Ayuquililla $19.93 $10.76
+138 Oaxaca Santiago Cacaloxtepec $19.93 $10.76
+138 Oaxaca Santiago Huajolotitlán $19.93 $10.76
+138 Oaxaca Santiago Miltepec $19.93 $10.76
+138 Oaxaca Santiago Tepetlapa $19.93 $10.76
+138 Oaxaca Santo Domingo Tonalá $19.93 $10.76
+138 Oaxaca Santo Domingo Tonaltepec $19.93 $10.76
+138 Oaxaca Santo Domingo Yodohino $19.93 $10.76
+138 Oaxaca Santos Reyes Tepejillo $19.93 $10.76
+138 Oaxaca Santos Reyes Yucuná $19.93 $10.76
+138 Oaxaca Teotongo $19.93 $10.76
+138 Oaxaca Villa de Chilapa de Díaz $19.93 $10.76
+138 Oaxaca Villa de Tamazulápam del Progreso $19.93 $10.76
+138 Oaxaca Villa Tejúpam de la Unión $19.93 $10.76
+138 Oaxaca Zapotitlán Palmas $19.93 $10.76
+139 Oaxaca Asunción Nochixtlán $20.07 $10.84
+30 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+139 Oaxaca Chalcatongo de Hidalgo $20.07 $10.84
+139 Oaxaca Heroica Ciudad de Tlaxiaco $20.07 $10.84
+139 Oaxaca Magdalena Jaltepec $20.07 $10.84
+139 Oaxaca Magdalena Peñasco $20.07 $10.84
+139 Oaxaca Magdalena Yodocono de Porfirio Díaz $20.07 $10.84
+139 Oaxaca Magdalena Zahuatlán $20.07 $10.84
+139 Oaxaca San Agustín Tlacotepec $20.07 $10.84
+139 Oaxaca San Andrés Lagunas $20.07 $10.84
+139 Oaxaca San Andrés Sinaxtla $20.07 $10.84
+139 Oaxaca San Antonio Sinicahua $20.07 $10.84
+139 Oaxaca San Bartolo Soyaltepec $20.07 $10.84
+139 Oaxaca San Bartolomé Yucuañe $20.07 $10.84
+139 Oaxaca San Cristóbal Amoltepec $20.07 $10.84
+139 Oaxaca San Esteban Atatlahuca $20.07 $10.84
+139 Oaxaca San Francisco Cahuacuá $20.07 $10.84
+139 Oaxaca San Francisco Chindúa $20.07 $10.84
+139 Oaxaca San Francisco Jaltepetongo $20.07 $10.84
+139 Oaxaca San Francisco Nuxaño $20.07 $10.84
+139 Oaxaca San Jerónimo Sosola $20.07 $10.84
+139 Oaxaca San Juan Achiutla $20.07 $10.84
+139 Oaxaca San Juan Diuxi $20.07 $10.84
+139 Oaxaca San Juan Mixtepec $20.07 $10.84
+139 Oaxaca San Juan Sayultepec $20.07 $10.84
+139 Oaxaca San Juan Teita $20.07 $10.84
+139 Oaxaca San Juan Teposcolula $20.07 $10.84
+139 Oaxaca San Juan Yucuita $20.07 $10.84
+139 Oaxaca San Martín Huamelúlpam $20.07 $10.84
+139 Oaxaca San Mateo Etlatongo $20.07 $10.84
+139 Oaxaca San Mateo Peñasco $20.07 $10.84
+139 Oaxaca San Mateo Sindihui $20.07 $10.84
+139 Oaxaca San Mateo Yucutindoo $20.07 $10.84
+139 Oaxaca San Miguel Achiutla $20.07 $10.84
+139 Oaxaca San Miguel Chicahua $20.07 $10.84
+139 Oaxaca San Miguel el Grande $20.07 $10.84
+139 Oaxaca San Miguel Tecomatlán $20.07 $10.84
+31 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+139 Oaxaca San Pablo Tijaltepec $20.07 $10.84
+139 Oaxaca San Pedro Coxcaltepec Cántaros $20.07 $10.84
+139 Oaxaca San Pedro Mártir Yucuxaco $20.07 $10.84
+139 Oaxaca San Pedro Molinos $20.07 $10.84
+139 Oaxaca San Pedro Teozacoalco $20.07 $10.84
+139 Oaxaca San Pedro Tidaá $20.07 $10.84
+139 Oaxaca San Pedro Topiltepec $20.07 $10.84
+139 Oaxaca San Pedro y San Pablo Teposcolula $20.07 $10.84
+139 Oaxaca San Pedro Yucunama $20.07 $10.84
+139 Oaxaca San Vicente Nuñú $20.07 $10.84
+139 Oaxaca Santa Catarina Tayata $20.07 $10.84
+139 Oaxaca Santa Catarina Ticuá $20.07 $10.84
+139 Oaxaca Santa Catarina Yosonotú $20.07 $10.84
+139 Oaxaca Santa Cruz Nundaco $20.07 $10.84
+139 Oaxaca Santa Cruz Tacahua $20.07 $10.84
+139 Oaxaca Santa Cruz Tayata $20.07 $10.84
+139 Oaxaca Santa María Apazco $20.07 $10.84
+139 Oaxaca Santa María Chachoápam $20.07 $10.84
+139 Oaxaca Santa María del Rosario $20.07 $10.84
+139 Oaxaca Santa María Nduayaco $20.07 $10.84
+139 Oaxaca Santa María Tataltepec $20.07 $10.84
+139 Oaxaca Santa María Yolotepec $20.07 $10.84
+139 Oaxaca Santa María Yosoyúa $20.07 $10.84
+139 Oaxaca Santiago Huauclilla $20.07 $10.84
+139 Oaxaca Santiago Nejapilla $20.07 $10.84
+139 Oaxaca Santiago Nundiche $20.07 $10.84
+139 Oaxaca Santiago Tilantongo $20.07 $10.84
+139 Oaxaca Santiago Tillo $20.07 $10.84
+139 Oaxaca Santiago Yolomécatl $20.07 $10.84
+139 Oaxaca Santiago Yosondúa $20.07 $10.84
+139 Oaxaca Santo Domingo Ixcatlán $20.07 $10.84
+139 Oaxaca Santo Domingo Tlatayápam $20.07 $10.84
+139 Oaxaca Santo Domingo Yanhuitlán $20.07 $10.84
+139 Oaxaca Yutanduchi de Guerrero $20.07 $10.84
+140 Oaxaca Eloxochitlán de Flores Magón $19.30 $10.42
+140 Oaxaca Huautepec $19.30 $10.42
+32 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+140 Oaxaca Huautla de Jiménez $19.30 $10.42
+140 Oaxaca San Antonio Nanahuatípam $19.30 $10.42
+140 Oaxaca San Francisco Huehuetlán $19.30 $10.42
+140 Oaxaca San Jerónimo Tecóatl $19.30 $10.42
+140 Oaxaca San Juan de los Cués $19.30 $10.42
+140 Oaxaca San Lorenzo Cuaunecuiltitla $19.30 $10.42
+140 Oaxaca San Lucas Zoquiápam $19.30 $10.42
+140 Oaxaca San Martín Toxpalan $19.30 $10.42
+140 Oaxaca San Mateo Yoloxochitlán $19.30 $10.42
+140 Oaxaca San Pedro Ocopetatillo $19.30 $10.42
+140 Oaxaca Santa Ana Ateixtlahuaca $19.30 $10.42
+140 Oaxaca Santa Cruz Acatepec $19.30 $10.42
+140 Oaxaca Santa María Chilchotla $19.30 $10.42
+140 Oaxaca Santa María la Asunción $19.30 $10.42
+140 Oaxaca Santa María Teopoxco $19.30 $10.42
+140 Oaxaca Santiago Texcalcingo $19.30 $10.42
+140 Oaxaca Teotitlán de Flores Magón $19.30 $10.42
+140 Oaxaca Concepción Pápalo $19.30 $10.42
+140 Oaxaca Cuyamecalco Villa de Zaragoza $19.30 $10.42
+140 Oaxaca Mazatlán Villa de Flores $19.30 $10.42
+140 Oaxaca San Juan Bautista Cuicatlán $19.30 $10.42
+140 Oaxaca San Juan Quiotepec $19.30 $10.42
+140 Oaxaca San Juan Tepeuxila $19.30 $10.42
+140 Oaxaca San Miguel Huautla $19.30 $10.42
+140 Oaxaca San Miguel Santa Flor $19.30 $10.42
+140 Oaxaca San Pablo Macuiltianguis $19.30 $10.42
+140 Oaxaca San Pedro Jaltepetongo $19.30 $10.42
+140 Oaxaca San Pedro Jocotipac $19.30 $10.42
+140 Oaxaca San Pedro Yólox $19.30 $10.42
+140 Oaxaca Santa Ana Cuauhtémoc $19.30 $10.42
+140 Oaxaca Santa María Ixcatlán $19.30 $10.42
+140 Oaxaca Santa María Pápalo $19.30 $10.42
+140 Oaxaca Santa María Tecomavaca $19.30 $10.42
+140 Oaxaca Santa María Texcatitlán $19.30 $10.42
+140 Oaxaca Santiago Apoala $19.30 $10.42
+140 Oaxaca Santiago Comaltepec $19.30 $10.42
+33 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+140 Oaxaca Santos Reyes Pápalo $19.30 $10.42
+140 Oaxaca Valerio Trujano $19.30 $10.42
+141 Chiapas Arriaga $19.96 $10.78
+141 Oaxaca Asunción Ixtaltepec $19.96 $10.78
+141 Oaxaca Asunción Tlacolulita $19.96 $10.78
+141 Oaxaca Chahuites $19.96 $10.78
+141 Oaxaca Ciudad Ixtepec $19.96 $10.78
+141 Oaxaca El Espinal $19.96 $10.78
+141 Oaxaca Juchitán de Zaragoza $19.96 $10.78
+141 Oaxaca Magdalena Tequisistlán $19.96 $10.78
+141 Oaxaca Magdalena Tlacotepec $19.96 $10.78
+141 Oaxaca Reforma de Pineda $19.96 $10.78
+141 Oaxaca San Dionisio del Mar $19.96 $10.78
+141 Oaxaca San Francisco del Mar $19.96 $10.78
+141 Oaxaca San Francisco Ixhuatán $19.96 $10.78
+141 Oaxaca San Miguel Chimalapa $19.96 $10.78
+141 Oaxaca San Miguel Tenango $19.96 $10.78
+141 Oaxaca San Pedro Comitancillo $19.96 $10.78
+141 Oaxaca San Pedro Huamelula $19.96 $10.78
+141 Oaxaca San Pedro Tapanatepec $19.96 $10.78
+141 Oaxaca Santa María Ecatepec $19.96 $10.78
+141 Oaxaca Santa María Jalapa del Marqués $19.96 $10.78
+141 Oaxaca Santa María Mixtequilla $19.96 $10.78
+141 Oaxaca Santa María Xadani $19.96 $10.78
+141 Oaxaca Santiago Astata $19.96 $10.78
+141 Oaxaca Santiago Laollaga $19.96 $10.78
+141 Oaxaca Santiago Niltepec $19.96 $10.78
+141 Oaxaca Santo Domingo Chihuitán $19.96 $10.78
+141 Oaxaca Santo Domingo Ingenio $19.96 $10.78
+141 Oaxaca Santo Domingo Tehuantepec $19.96 $10.78
+141 Oaxaca Santo Domingo Zanatepec $19.96 $10.78
+141 Oaxaca Unión Hidalgo $19.96 $10.78
+142 Oaxaca El Barrio de la Soledad $20.09 $10.85
+142 Oaxaca Guevea de Humboldt $20.09 $10.85
+142 Oaxaca Matías Romero Avendaño $20.09 $10.85
+142 Oaxaca San Juan Cotzocón $20.09 $10.85
+34 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+142 Oaxaca San Juan Guichicovi $20.09 $10.85
+142 Oaxaca San Juan Mazatlán $20.09 $10.85
+142 Oaxaca Santa María Chimalapa $20.09 $10.85
+142 Oaxaca Santa María Guienagati $20.09 $10.85
+142 Oaxaca Santa María Petapa $20.09 $10.85
+142 Oaxaca Santa María Totolapilla $20.09 $10.85
+142 Oaxaca Santiago Lachiguiri $20.09 $10.85
+142 Oaxaca Santiago Yaveo $20.09 $10.85
+142 Oaxaca Santo Domingo Petapa $20.09 $10.85
+142 Veracruz de Ignacio de la Llave Uxpanapa $20.09 $10.85
+143 Oaxaca Ánimas Trujano $19.79 $10.69
+143 Oaxaca Asunción Cacalotepec $19.79 $10.69
+143 Oaxaca Asunción Ocotlán $19.79 $10.69
+143 Oaxaca Ayoquezco de Aldama $19.79 $10.69
+143 Oaxaca Ciénega de Zimatlán $19.79 $10.69
+143 Oaxaca Coatecas Altas $19.79 $10.69
+143 Oaxaca Cuilápam de Guerrero $19.79 $10.69
+143 Oaxaca Guadalupe Etla $19.79 $10.69
+143 Oaxaca Heroica Ciudad de Ejutla de Crespo $19.79 $10.69
+143 Oaxaca La Compañía $19.79 $10.69
+143 Oaxaca La Pe $19.79 $10.69
+143 Oaxaca Magdalena Apasco $19.79 $10.69
+143 Oaxaca Magdalena Mixtepec $19.79 $10.69
+143 Oaxaca Magdalena Ocotlán $19.79 $10.69
+143 Oaxaca Magdalena Teitipac $19.79 $10.69
+143 Oaxaca Mixistlán de la Reforma $19.79 $10.69
+143 Oaxaca Nazareno Etla $19.79 $10.69
+143 Oaxaca Nuevo Zoquiápam $19.79 $10.69
+143 Oaxaca Oaxaca de Juárez $19.79 $10.69
+143 Oaxaca Ocotlán de Morelos $19.79 $10.69
+143 Oaxaca Reyes Etla $19.79 $10.69
+143 Oaxaca Rojas de Cuauhtémoc $19.79 $10.69
+143 Oaxaca San Agustín Amatengo $19.79 $10.69
+143 Oaxaca San Agustín de las Juntas $19.79 $10.69
+143 Oaxaca San Agustín Etla $19.79 $10.69
+143 Oaxaca San Agustín Yatareni $19.79 $10.69
+35 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+143 Oaxaca San Andrés Huayápam $19.79 $10.69
+143 Oaxaca San Andrés Ixtlahuaca $19.79 $10.69
+143 Oaxaca San Andrés Nuxiño $19.79 $10.69
+143 Oaxaca San Andrés Solaga $19.79 $10.69
+143 Oaxaca San Andrés Yaá $19.79 $10.69
+143 Oaxaca San Andrés Zabache $19.79 $10.69
+143 Oaxaca San Andrés Zautla $19.79 $10.69
+143 Oaxaca San Antonino Castillo Velasco $19.79 $10.69
+143 Oaxaca San Antonino el Alto $19.79 $10.69
+143 Oaxaca San Antonio de la Cal $19.79 $10.69
+143 Oaxaca San Antonio Huitepec $19.79 $10.69
+143 Oaxaca San Baltazar Chichicápam $19.79 $10.69
+143 Oaxaca San Baltazar Yatzachi el Bajo $19.79 $10.69
+143 Oaxaca San Bartolo Coyotepec $19.79 $10.69
+143 Oaxaca San Bartolomé Quialana $19.79 $10.69
+143 Oaxaca San Bartolomé Zoogocho $19.79 $10.69
+143 Oaxaca San Bernardo Mixtepec $19.79 $10.69
+143 Oaxaca San Cristóbal Lachirioag $19.79 $10.69
+143 Oaxaca San Dionisio Ocotepec $19.79 $10.69
+143 Oaxaca San Dionisio Ocotlán $19.79 $10.69
+143 Oaxaca San Felipe Tejalápam $19.79 $10.69
+143 Oaxaca San Francisco Lachigoló $19.79 $10.69
+143 Oaxaca San Francisco Sola $19.79 $10.69
+143 Oaxaca San Francisco Telixtlahuaca $19.79 $10.69
+143 Oaxaca San Ildefonso Sola $19.79 $10.69
+143 Oaxaca San Ildefonso Villa Alta $19.79 $10.69
+143 Oaxaca San Jacinto Amilpas $19.79 $10.69
+143 Oaxaca San Jacinto Tlacotepec $19.79 $10.69
+143 Oaxaca San Jerónimo Taviche $19.79 $10.69
+143 Oaxaca San Jerónimo Tlacochahuaya $19.79 $10.69
+143 Oaxaca San José del Progreso $19.79 $10.69
+143 Oaxaca San Juan Bautista Atatlahuca $19.79 $10.69
+143 Oaxaca San Juan Bautista Guelache $19.79 $10.69
+143 Oaxaca San Juan Bautista Jayacatlán $19.79 $10.69
+143 Oaxaca San Juan Chilateca $19.79 $10.69
+143 Oaxaca San Juan Comaltepec $19.79 $10.69
+36 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+143 Oaxaca San Juan del Estado $19.79 $10.69
+143 Oaxaca San Juan del Río $19.79 $10.69
+143 Oaxaca San Juan Guelavía $19.79 $10.69
+143 Oaxaca San Juan Juquila Mixes $19.79 $10.69
+143 Oaxaca San Juan Juquila Vijanos $19.79 $10.69
+143 Oaxaca San Juan Lachigalla $19.79 $10.69
+143 Oaxaca San Juan Petlapa $19.79 $10.69
+143 Oaxaca San Juan Tabaá $19.79 $10.69
+143 Oaxaca San Juan Tamazola $19.79 $10.69
+143 Oaxaca San Juan Teitipac $19.79 $10.69
+143 Oaxaca San Juan Yaeé $19.79 $10.69
+143 Oaxaca San Juan Yatzona $19.79 $10.69
+143 Oaxaca San Lorenzo Albarradas $19.79 $10.69
+143 Oaxaca San Lorenzo Cacaotepec $19.79 $10.69
+143 Oaxaca San Lorenzo Texmelúcan $19.79 $10.69
+143 Oaxaca San Lucas Quiaviní $19.79 $10.69
+143 Oaxaca San Martín de los Cansecos $19.79 $10.69
+143 Oaxaca San Martín Lachilá $19.79 $10.69
+143 Oaxaca San Martín Tilcajete $19.79 $10.69
+143 Oaxaca San Melchor Betaza $19.79 $10.69
+143 Oaxaca San Miguel Aloápam $19.79 $10.69
+143 Oaxaca San Miguel Amatlán $19.79 $10.69
+143 Oaxaca San Miguel del Río $19.79 $10.69
+143 Oaxaca San Miguel Ejutla $19.79 $10.69
+143 Oaxaca San Miguel Mixtepec $19.79 $10.69
+143 Oaxaca San Miguel Peras $19.79 $10.69
+143 Oaxaca San Miguel Piedras $19.79 $10.69
+143 Oaxaca San Miguel Tilquiápam $19.79 $10.69
+143 Oaxaca San Miguel Yotao $19.79 $10.69
+143 Oaxaca San Pablo Cuatro Venados $19.79 $10.69
+143 Oaxaca San Pablo Etla $19.79 $10.69
+143 Oaxaca San Pablo Huitzo $19.79 $10.69
+143 Oaxaca San Pablo Huixtepec $19.79 $10.69
+143 Oaxaca San Pablo Villa de Mitla $19.79 $10.69
+143 Oaxaca San Pedro Apóstol $19.79 $10.69
+143 Oaxaca San Pedro Ixtlahuaca $19.79 $10.69
+37 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+143 Oaxaca San Pedro Mártir $19.79 $10.69
+143 Oaxaca San Pedro Ocotepec $19.79 $10.69
+143 Oaxaca San Pedro Quiatoni $19.79 $10.69
+143 Oaxaca San Pedro Taviche $19.79 $10.69
+143 Oaxaca San Pedro Totolápam $19.79 $10.69
+143 Oaxaca San Pedro y San Pablo Ayutla $19.79 $10.69
+143 Oaxaca San Raymundo Jalpan $19.79 $10.69
+143 Oaxaca San Sebastián Abasolo $19.79 $10.69
+143 Oaxaca San Sebastián Teitipac $19.79 $10.69
+143 Oaxaca San Sebastián Tutla $19.79 $10.69
+143 Oaxaca San Vicente Coatlán $19.79 $10.69
+143 Oaxaca San Vicente Lachixío $19.79 $10.69
+143 Oaxaca Santa Ana del Valle $19.79 $10.69
+143 Oaxaca Santa Ana Tlapacoyan $19.79 $10.69
+143 Oaxaca Santa Ana Yareni $19.79 $10.69
+143 Oaxaca Santa Ana Zegache $19.79 $10.69
+143 Oaxaca Santa Catarina Ixtepeji $19.79 $10.69
+143 Oaxaca Santa Catarina Lachatao $19.79 $10.69
+143 Oaxaca Santa Catarina Minas $19.79 $10.69
+143 Oaxaca Santa Catarina Quiané $19.79 $10.69
+143 Oaxaca Santa Cruz Amilpas $19.79 $10.69
+143 Oaxaca Santa Cruz Mixtepec $19.79 $10.69
+143 Oaxaca Santa Cruz Papalutla $19.79 $10.69
+143 Oaxaca Santa Cruz Xoxocotlán $19.79 $10.69
+143 Oaxaca Santa Gertrudis $19.79 $10.69
+143 Oaxaca Santa Inés de Zaragoza $19.79 $10.69
+143 Oaxaca Santa Inés del Monte $19.79 $10.69
+143 Oaxaca Santa Inés Yatzeche $19.79 $10.69
+143 Oaxaca Santa Lucía del Camino $19.79 $10.69
+143 Oaxaca Santa Lucía Ocotlán $19.79 $10.69
+143 Oaxaca Santa María Alotepec $19.79 $10.69
+143 Oaxaca Santa María Atzompa $19.79 $10.69
+143 Oaxaca Santa María Coyotepec $19.79 $10.69
+143 Oaxaca Santa María del Tule $19.79 $10.69
+143 Oaxaca Santa María Guelacé $19.79 $10.69
+143 Oaxaca Santa María Lachixío $19.79 $10.69
+38 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+143 Oaxaca Santa María Peñoles $19.79 $10.69
+143 Oaxaca Santa María Sola $19.79 $10.69
+143 Oaxaca Santa María Temaxcalapa $19.79 $10.69
+143 Oaxaca Santa María Tepantlali $19.79 $10.69
+143 Oaxaca Santa María Tlahuitoltepec $19.79 $10.69
+143 Oaxaca Santa María Yalina $19.79 $10.69
+143 Oaxaca Santa María Zaniza $19.79 $10.69
+143 Oaxaca Santiago Apóstol $19.79 $10.69
+143 Oaxaca Santiago Atitlán $19.79 $10.69
+143 Oaxaca Santiago Choápam $19.79 $10.69
+143 Oaxaca Santiago Lalopa $19.79 $10.69
+143 Oaxaca Santiago Matatlán $19.79 $10.69
+143 Oaxaca Santiago Nacaltepec $19.79 $10.69
+143 Oaxaca Santiago Suchilquitongo $19.79 $10.69
+143 Oaxaca Santiago Tenango $19.79 $10.69
+143 Oaxaca Santiago Textitlán $19.79 $10.69
+143 Oaxaca Santiago Tlazoyaltepec $19.79 $10.69
+143 Oaxaca Santiago Zacatepec $19.79 $10.69
+143 Oaxaca Santiago Zoochila $19.79 $10.69
+143 Oaxaca Santo Domingo Nuxaá $19.79 $10.69
+143 Oaxaca Santo Domingo Roayaga $19.79 $10.69
+143 Oaxaca Santo Domingo Teojomulco $19.79 $10.69
+143 Oaxaca Santo Domingo Tepuxtepec $19.79 $10.69
+143 Oaxaca Santo Domingo Tomaltepec $19.79 $10.69
+143 Oaxaca Santo Tomás Jalieza $19.79 $10.69
+143 Oaxaca Santo Tomás Mazaltepec $19.79 $10.69
+143 Oaxaca Soledad Etla $19.79 $10.69
+143 Oaxaca Tamazulápam del Espíritu Santo $19.79 $10.69
+143 Oaxaca Tanetze de Zaragoza $19.79 $10.69
+143 Oaxaca Taniche $19.79 $10.69
+143 Oaxaca Teococuilco de Marcos Pérez $19.79 $10.69
+143 Oaxaca Teotitlán del Valle $19.79 $10.69
+143 Oaxaca Tlacolula de Matamoros $19.79 $10.69
+143 Oaxaca Tlalixtac de Cabrera $19.79 $10.69
+143 Oaxaca Totontepec Villa de Morelos $19.79 $10.69
+143 Oaxaca Trinidad Zaachila $19.79 $10.69
+39 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+143 Oaxaca Villa de Etla $19.79 $10.69
+143 Oaxaca Villa de Zaachila $19.79 $10.69
+143 Oaxaca Villa Díaz Ordaz $19.79 $10.69
+143 Oaxaca Villa Hidalgo $19.79 $10.69
+143 Oaxaca Villa Sola de Vega $19.79 $10.69
+143 Oaxaca Villa Talea de Castro $19.79 $10.69
+143 Oaxaca Yaxe $19.79 $10.69
+143 Oaxaca Zimatlán de Álvarez $19.79 $10.69
+143 Oaxaca Nejapa de Madero $19.79 $10.69
+143 Oaxaca San Bartolo Yautepec $19.79 $10.69
+143 Oaxaca San Carlos Yautepec $19.79 $10.69
+143 Oaxaca San Juan Lajarcia $19.79 $10.69
+143 Oaxaca San Lucas Camotlán $19.79 $10.69
+143 Oaxaca San Miguel Quetzaltepec $19.79 $10.69
+143 Oaxaca Santa Ana Tavela $19.79 $10.69
+143 Oaxaca Santa María Quiegolani $19.79 $10.69
+143 Oaxaca Santiago Ixcuintepec $19.79 $10.69
+143 Oaxaca San Jerónimo Coatlán $19.79 $10.69
+143 Oaxaca San Pedro Juchatengo $19.79 $10.69
+144 Oaxaca Salina Cruz $19.62 $10.59
+144 Oaxaca San Blas Atempa $19.62 $10.59
+144 Oaxaca San Mateo del Mar $19.62 $10.59
+144 Oaxaca San Pedro Huilotepec $19.62 $10.59
+145 Oaxaca Acatlán de Pérez Figueroa $19.20 $10.37
+145 Oaxaca Ayotzintepec $19.20 $10.37
+145 Oaxaca Loma Bonita $19.20 $10.37
+145 Oaxaca San Andrés Teotilálpam $19.20 $10.37
+145 Oaxaca San Bartolomé Ayautla $19.20 $10.37
+145 Oaxaca San Felipe Jalapa de Díaz $19.20 $10.37
+145 Oaxaca San Felipe Usila $19.20 $10.37
+145 Oaxaca San Francisco Chapulapa $19.20 $10.37
+145 Oaxaca San José Chiltepec $19.20 $10.37
+145 Oaxaca San José Independencia $19.20 $10.37
+145 Oaxaca San José Tenango $19.20 $10.37
+145 Oaxaca San Juan Bautista Tlacoatzintepec $19.20 $10.37
+145 Oaxaca San Juan Bautista Tuxtepec $19.20 $10.37
+40 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+145 Oaxaca San Juan Bautista Valle Nacional $19.20 $10.37
+145 Oaxaca San Juan Coatzóspam $19.20 $10.37
+145 Oaxaca San Lucas Ojitlán $19.20 $10.37
+145 Oaxaca San Miguel Soyaltepec $19.20 $10.37
+145 Oaxaca San Pedro Ixcatlán $19.20 $10.37
+145 Oaxaca San Pedro Sochiápam $19.20 $10.37
+145 Oaxaca San Pedro Teutila $19.20 $10.37
+145 Oaxaca Santa María Jacatepec $19.20 $10.37
+145 Oaxaca Santa María Tlalixtac $19.20 $10.37
+145 Oaxaca Abejones $19.20 $10.37
+145 Oaxaca Capulálpam de Méndez $19.20 $10.37
+145 Oaxaca Chiquihuitlán de Benito Juárez $19.20 $10.37
+145 Oaxaca Guelatao de Juárez $19.20 $10.37
+145 Oaxaca Ixtlán de Juárez $19.20 $10.37
+145 Oaxaca Natividad $19.20 $10.37
+145 Oaxaca San Francisco Cajonos $19.20 $10.37
+145 Oaxaca San Juan Atepec $19.20 $10.37
+145 Oaxaca San Juan Chicomezúchil $19.20 $10.37
+145 Oaxaca San Juan Evangelista Analco $19.20 $10.37
+145 Oaxaca San Juan Lalana $19.20 $10.37
+145 Oaxaca San Mateo Cajonos $19.20 $10.37
+145 Oaxaca San Pablo Yaganiza $19.20 $10.37
+145 Oaxaca San Pedro Cajonos $19.20 $10.37
+145 Oaxaca San Pedro Yaneri $19.20 $10.37
+145 Oaxaca Santa María Jaltianguis $19.20 $10.37
+145 Oaxaca Santa María Yavesía $19.20 $10.37
+145 Oaxaca Santiago Camotlán $19.20 $10.37
+145 Oaxaca Santiago Jocotepec $19.20 $10.37
+145 Oaxaca Santiago Laxopa $19.20 $10.37
+145 Oaxaca Santiago Xiacuí $19.20 $10.37
+145 Oaxaca Santo Domingo Albarradas $19.20 $10.37
+145 Oaxaca Santo Domingo Xagacía $19.20 $10.37
+145 Veracruz de Ignacio de la Llave Carlos A. Carrillo $19.20 $10.37
+145 Veracruz de Ignacio de la Llave Chacaltianguis $19.20 $10.37
+145 Veracruz de Ignacio de la Llave Cosamaloapan de Carpio $19.20 $10.37
+145 Veracruz de Ignacio de la Llave Cotaxtla $19.20 $10.37
+41 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+145 Veracruz de Ignacio de la Llave Isla $19.20 $10.37
+145 Veracruz de Ignacio de la Llave Ixmatlahuacan $19.20 $10.37
+145 Veracruz de Ignacio de la Llave José Azueta $19.20 $10.37
+145 Veracruz de Ignacio de la Llave Juan Rodríguez Clara $19.20 $10.37
+145 Veracruz de Ignacio de la Llave Otatitlán $19.20 $10.37
+145 Veracruz de Ignacio de la Llave Playa Vicente $19.20 $10.37
+145 Veracruz de Ignacio de la Llave Santiago Sochiapan $19.20 $10.37
+145 Veracruz de Ignacio de la Llave Tierra Blanca $19.20 $10.37
+145 Veracruz de Ignacio de la Llave Tlacojalpan $19.20 $10.37
+145 Veracruz de Ignacio de la Llave Tres Valles $19.20 $10.37
+145 Veracruz de Ignacio de la Llave Tuxtilla $19.20 $10.37
+146 Oaxaca Candelaria Loxicha $20.24 $10.93
+146 Oaxaca Pluma Hidalgo $20.24 $10.93
+146 Oaxaca San Agustín Loxicha $20.24 $10.93
+146 Oaxaca San Bartolomé Loxicha $20.24 $10.93
+146 Oaxaca San Francisco Ozolotepec $20.24 $10.93
+146 Oaxaca San Juan Ozolotepec $20.24 $10.93
+146 Oaxaca San Mateo Piñas $20.24 $10.93
+146 Oaxaca San Miguel del Puerto $20.24 $10.93
+146 Oaxaca San Miguel Suchixtepec $20.24 $10.93
+146 Oaxaca San Pedro el Alto $20.24 $10.93
+146 Oaxaca San Pedro Pochutla $20.24 $10.93
+146 Oaxaca Santa María Huatulco $20.24 $10.93
+146 Oaxaca Santiago Xanica $20.24 $10.93
+147 Oaxaca Mártires de Tacubaya $20.69 $11.17
+147 Oaxaca Pinotepa de Don Luis $20.69 $11.17
+147 Oaxaca San Andrés Huaxpaltepec $20.69 $11.17
+147 Oaxaca San José Estancia Grande $20.69 $11.17
+147 Oaxaca San Juan Bautista Lo de Soto $20.69 $11.17
+147 Oaxaca San Juan Colorado $20.69 $11.17
+147 Oaxaca San Lorenzo $20.69 $11.17
+147 Oaxaca San Miguel Tlacamama $20.69 $11.17
+147 Oaxaca San Pedro Atoyac $20.69 $11.17
+147 Oaxaca San Pedro Jicayán $20.69 $11.17
+147 Oaxaca San Sebastián Ixcapa $20.69 $11.17
+147 Oaxaca Santa María Cortijo $20.69 $11.17
+42 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+147 Oaxaca Santa María Huazolotitlán $20.69 $11.17
+147 Oaxaca Santiago Llano Grande $20.69 $11.17
+147 Oaxaca Santiago Pinotepa Nacional $20.69 $11.17
+147 Oaxaca Santiago Tapextla $20.69 $11.17
+147 Oaxaca Santo Domingo Armenta $20.69 $11.17
+148 Oaxaca San Nicolás $20.14 $10.88
+148 Oaxaca San Simón Almolongas $20.14 $10.88
+148 Oaxaca Santa Cruz Xitla $20.14 $10.88
+148 Oaxaca Yogana $20.14 $10.88
+148 Oaxaca Miahuatlán de Porfirio Díaz $20.14 $10.88
+148 Oaxaca Monjas $20.14 $10.88
+148 Oaxaca San Andrés Paxtlán $20.14 $10.88
+148 Oaxaca San Baltazar Loxicha $20.14 $10.88
+148 Oaxaca San Cristóbal Amatlán $20.14 $10.88
+148 Oaxaca San Francisco Logueche $20.14 $10.88
+148 Oaxaca San Ildefonso Amatlán $20.14 $10.88
+148 Oaxaca San José del Peñasco $20.14 $10.88
+148 Oaxaca San José Lachiguiri $20.14 $10.88
+148 Oaxaca San Juan Mixtepec $20.14 $10.88
+148 Oaxaca San Luis Amatlán $20.14 $10.88
+148 Oaxaca San Marcial Ozolotepec $20.14 $10.88
+148 Oaxaca San Mateo Río Hondo $20.14 $10.88
+148 Oaxaca San Miguel Coatlán $20.14 $10.88
+148 Oaxaca San Pablo Coatlán $20.14 $10.88
+148 Oaxaca San Pedro Mártir Quiechapa $20.14 $10.88
+148 Oaxaca San Pedro Mixtepec $20.14 $10.88
+148 Oaxaca San Sebastián Río Hondo $20.14 $10.88
+148 Oaxaca Santa Ana $20.14 $10.88
+148 Oaxaca Santa Catalina Quierí $20.14 $10.88
+148 Oaxaca Santa Catarina Cuixtla $20.14 $10.88
+148 Oaxaca Santa Catarina Loxicha $20.14 $10.88
+148 Oaxaca Santa Catarina Quioquitani $20.14 $10.88
+148 Oaxaca Santa Lucía Miahuatlán $20.14 $10.88
+148 Oaxaca Santa María Colotepec $20.14 $10.88
+148 Oaxaca Santa María Ozolotepec $20.14 $10.88
+148 Oaxaca Santa María Tonameca $20.14 $10.88
+43 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+148 Oaxaca Santa María Zoquitlán $20.14 $10.88
+148 Oaxaca Santo Domingo de Morelos $20.14 $10.88
+148 Oaxaca Santo Domingo Ozolotepec $20.14 $10.88
+148 Oaxaca Santo Tomás Tamazulapan $20.14 $10.88
+148 Oaxaca Sitio de Xitlapehua $20.14 $10.88
+148 Oaxaca La Reforma $20.14 $10.88
+148 Oaxaca San Agustín Chayuco $20.14 $10.88
+148 Oaxaca San Andrés Cabecera Nueva $20.14 $10.88
+148 Oaxaca San Gabriel Mixtepec $20.14 $10.88
+148 Oaxaca San Juan Lachao $20.14 $10.88
+148 Oaxaca San Juan Quiahije $20.14 $10.88
+148 Oaxaca San Miguel Panixtlahuaca $20.14 $10.88
+148 Oaxaca San Pedro Mixtepec $20.14 $10.88
+148 Oaxaca San Sebastián Coatlán $20.14 $10.88
+148 Oaxaca Santa Catarina Juquila $20.14 $10.88
+148 Oaxaca Santa Catarina Mechoacán $20.14 $10.88
+148 Oaxaca Santa Cruz Itundujia $20.14 $10.88
+148 Oaxaca Santa Cruz Zenzontepec $20.14 $10.88
+148 Oaxaca Santa María Temaxcaltepec $20.14 $10.88
+148 Oaxaca Santiago Amoltepec $20.14 $10.88
+148 Oaxaca Santiago Ixtayutla $20.14 $10.88
+148 Oaxaca Santiago Jamiltepec $20.14 $10.88
+148 Oaxaca Santiago Minas $20.14 $10.88
+148 Oaxaca Santiago Tetepec $20.14 $10.88
+148 Oaxaca Santiago Yaitepec $20.14 $10.88
+148 Oaxaca Santos Reyes Nopala $20.14 $10.88
+148 Oaxaca Tataltepec de Valdés $20.14 $10.88
+148 Oaxaca Villa de Tututepec $20.14 $10.88
+149 Guerrero Xochihuehuetlán $19.82 $10.70
+149 Oaxaca San Andrés Tepetlapa $19.82 $10.70
+149 Oaxaca San Juan Cieneguilla $19.82 $10.70
+149 Oaxaca San Mateo Nejápam $19.82 $10.70
+149 Oaxaca Zapotitlán Lagunas $19.82 $10.70
+149 Puebla Acatlán $19.82 $10.70
+149 Puebla Ahuehuetitla $19.82 $10.70
+149 Puebla Albino Zertuche $19.82 $10.70
+44 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+149 Puebla Axutla $19.82 $10.70
+149 Puebla Chigmecatitlán $19.82 $10.70
+149 Puebla Chila $19.82 $10.70
+149 Puebla Chila de la Sal $19.82 $10.70
+149 Puebla Chinantla $19.82 $10.70
+149 Puebla Coatzingo $19.82 $10.70
+149 Puebla Coyotepec $19.82 $10.70
+149 Puebla Cuayuca de Andrade $19.82 $10.70
+149 Puebla Guadalupe $19.82 $10.70
+149 Puebla Ixcaquixtla $19.82 $10.70
+149 Puebla Juan N. Méndez $19.82 $10.70
+149 Puebla Petlalcingo $19.82 $10.70
+149 Puebla Piaxtla $19.82 $10.70
+149 Puebla San Jerónimo Xayacatlán $19.82 $10.70
+149 Puebla San Miguel Ixitlán $19.82 $10.70
+149 Puebla San Pablo Anicano $19.82 $10.70
+149 Puebla San Pedro Yeloixtlahuaca $19.82 $10.70
+149 Puebla Santa Catarina Tlaltempan $19.82 $10.70
+149 Puebla Santa Inés Ahuatempan $19.82 $10.70
+149 Puebla Tecomatlán $19.82 $10.70
+149 Puebla Tehuitzingo $19.82 $10.70
+149 Puebla Tepexi de Rodríguez $19.82 $10.70
+149 Puebla Totoltepec de Guerrero $19.82 $10.70
+149 Puebla Tulcingo $19.82 $10.70
+149 Puebla Xayacatlán de Bravo $19.82 $10.70
+149 Puebla Xicotlán $19.82 $10.70
+149 Puebla Zacapala $19.82 $10.70
+150 Puebla Coronango $19.34 $10.44
+150 Puebla Juan C. Bonilla $19.34 $10.44
+150 Puebla Tlaltenango $19.34 $10.44
+151 Puebla Huaquechula $19.33 $10.44
+151 Puebla Tepeojuma $19.33 $10.44
+151 Puebla Tepexco $19.33 $10.44
+151 Puebla Tilapa $19.33 $10.44
+151 Puebla Tlapanalá $19.33 $10.44
+151 Puebla Xochiltepec $19.33 $10.44
+45 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+152 Puebla Ahuacatlán $19.11 $10.32
+152 Puebla Ahuazotepec $19.11 $10.32
+152 Puebla Aquixtla $19.11 $10.32
+152 Puebla Chiconcuautla $19.11 $10.32
+152 Puebla Chignahuapan $19.11 $10.32
+152 Puebla Huauchinango $19.11 $10.32
+152 Puebla Jalpan $19.11 $10.32
+152 Puebla Jopala $19.11 $10.32
+152 Puebla Juan Galindo $19.11 $10.32
+152 Puebla Naupan $19.11 $10.32
+152 Puebla Tetela de Ocampo $19.11 $10.32
+152 Puebla Tlaola $19.11 $10.32
+152 Puebla Tlapacoya $19.11 $10.32
+152 Puebla Xicotepec $19.11 $10.32
+152 Puebla Zacatlán $19.11 $10.32
+152 Puebla Zihuateutla $19.11 $10.32
+153 Puebla Ahuatlán $18.79 $10.15
+153 Puebla Atzala $18.79 $10.15
+153 Puebla Chiautla $18.79 $10.15
+153 Puebla Chietla $18.79 $10.15
+153 Puebla Cohetzala $18.79 $10.15
+153 Puebla Epatlán $18.79 $10.15
+153 Puebla Huehuetlán el Chico $18.79 $10.15
+153 Puebla Izúcar de Matamoros $18.79 $10.15
+153 Puebla Jolalpan $18.79 $10.15
+153 Puebla San Martín Totoltepec $18.79 $10.15
+154 Puebla Amozoc $19.38 $10.47
+154 Puebla Atlixco $19.38 $10.47
+154 Puebla Atzitzihuacán $19.38 $10.47
+154 Puebla Calpan $19.38 $10.47
+154 Puebla Chiautzingo $19.38 $10.47
+154 Puebla Cuautlancingo $19.38 $10.47
+154 Puebla Domingo Arenas $19.38 $10.47
+154 Puebla Huejotzingo $19.38 $10.47
+154 Puebla Nealtican $19.38 $10.47
+154 Puebla Ocoyucan $19.38 $10.47
+46 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+154 Puebla Puebla $19.38 $10.47
+154 Puebla San Andrés Cholula $19.38 $10.47
+154 Puebla San Felipe Teotlalcingo $19.38 $10.47
+154 Puebla San Gregorio Atzompa $19.38 $10.47
+154 Puebla San Jerónimo Tecuanipan $19.38 $10.47
+154 Puebla San Martín Texmelucan $19.38 $10.47
+154 Puebla San Matías Tlalancaleca $19.38 $10.47
+154 Puebla San Miguel Xoxtla $19.38 $10.47
+154 Puebla San Nicolás de los Ranchos $19.38 $10.47
+154 Puebla San Pedro Cholula $19.38 $10.47
+154 Puebla San Salvador el Verde $19.38 $10.47
+154 Puebla Santa Isabel Cholula $19.38 $10.47
+154 Puebla Tianguismanalco $19.38 $10.47
+154 Puebla Tlahuapan $19.38 $10.47
+154 Puebla Tochimilco $19.38 $10.47
+154 Tlaxcala Calpulalpan $19.38 $10.47
+154 Tlaxcala Chiautempan $19.38 $10.47
+154 Tlaxcala Ixtacuixtla de Mariano Matamoros $19.38 $10.47
+154 Tlaxcala Natívitas $19.38 $10.47
+154 Tlaxcala Panotla $19.38 $10.47
+154 Tlaxcala San Pablo del Monte $19.38 $10.47
+154 Tlaxcala Santa Ana Nopalucan $19.38 $10.47
+154 Tlaxcala Tepetitla de Lardizábal $19.38 $10.47
+154 Tlaxcala Tlaxcala $19.38 $10.47
+155 Oaxaca Concepción Buenavista $19.33 $10.44
+155 Oaxaca Cosoltepec $19.33 $10.44
+155 Oaxaca San Francisco Teopan $19.33 $10.44
+155 Oaxaca San Juan Bautista Suchitepec $19.33 $10.44
+155 Oaxaca San Pedro y San Pablo Tequixtepec $19.33 $10.44
+155 Oaxaca Santa Catarina Zapoquila $19.33 $10.44
+155 Oaxaca Santiago Ihuitlán Plumas $19.33 $10.44
+155 Oaxaca Tepelmeme Villa de Morelos $19.33 $10.44
+155 Oaxaca Tlacotepec Plumas $19.33 $10.44
+155 Oaxaca Villa de Santiago Chazumba $19.33 $10.44
+155 Puebla Acajete $19.33 $10.44
+155 Puebla Acatzingo $19.33 $10.44
+47 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+155 Puebla Ajalpan $19.33 $10.44
+155 Puebla Aljojuca $19.33 $10.44
+155 Puebla Altepexi $19.33 $10.44
+155 Puebla Atexcal $19.33 $10.44
+155 Puebla Atoyatempan $19.33 $10.44
+155 Puebla Atzitzintla $19.33 $10.44
+155 Puebla Caltepec $19.33 $10.44
+155 Puebla Cañada Morelos $19.33 $10.44
+155 Puebla Chalchicomula de Sesma $19.33 $10.44
+155 Puebla Chapulco $19.33 $10.44
+155 Puebla Coxcatlán $19.33 $10.44
+155 Puebla Coyomeapan $19.33 $10.44
+155 Puebla Cuapiaxtla de Madero $19.33 $10.44
+155 Puebla Cuautinchán $19.33 $10.44
+155 Puebla Eloxochitlán $19.33 $10.44
+155 Puebla Esperanza $19.33 $10.44
+155 Puebla General Felipe Ángeles $19.33 $10.44
+155 Puebla Guadalupe Victoria $19.33 $10.44
+155 Puebla Huatlatlauca $19.33 $10.44
+155 Puebla Huehuetlán el Grande $19.33 $10.44
+155 Puebla Huitziltepec $19.33 $10.44
+155 Puebla La Magdalena Tlatlauquitepec $19.33 $10.44
+155 Puebla Lafragua $19.33 $10.44
+155 Puebla Los Reyes de Juárez $19.33 $10.44
+155 Puebla Mazapiltepec de Juárez $19.33 $10.44
+155 Puebla Mixtla $19.33 $10.44
+155 Puebla Molcaxac $19.33 $10.44
+155 Puebla Nicolás Bravo $19.33 $10.44
+155 Puebla Palmar de Bravo $19.33 $10.44
+155 Puebla Quecholac $19.33 $10.44
+155 Puebla San Antonio Cañada $19.33 $10.44
+155 Puebla San Diego la Mesa Tochimiltzingo $19.33 $10.44
+155 Puebla San Gabriel Chilac $19.33 $10.44
+155 Puebla San José Miahuatlán $19.33 $10.44
+155 Puebla San Juan Atenco $19.33 $10.44
+155 Puebla San Juan Atzompa $19.33 $10.44
+48 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+155 Puebla San Nicolás Buenos Aires $19.33 $10.44
+155 Puebla San Salvador el Seco $19.33 $10.44
+155 Puebla San Salvador Huixcolotla $19.33 $10.44
+155 Puebla San Sebastián Tlacotepec $19.33 $10.44
+155 Puebla Santiago Miahuatlán $19.33 $10.44
+155 Puebla Santo Tomás Hueyotlipan $19.33 $10.44
+155 Puebla Soltepec $19.33 $10.44
+155 Puebla Tecali de Herrera $19.33 $10.44
+155 Puebla Tecamachalco $19.33 $10.44
+155 Puebla Tehuacán $19.33 $10.44
+155 Puebla Teopantlán $19.33 $10.44
+155 Puebla Tepanco de López $19.33 $10.44
+155 Puebla Tepeaca $19.33 $10.44
+155 Puebla Tepeyahualco de Cuauhtémoc $19.33 $10.44
+155 Puebla Tlachichuca $19.33 $10.44
+155 Puebla Tlacotepec de Benito Juárez $19.33 $10.44
+155 Puebla Tlanepantla $19.33 $10.44
+155 Puebla Tochtepec $19.33 $10.44
+155 Puebla Tzicatlacoyan $19.33 $10.44
+155 Puebla Vicente Guerrero $19.33 $10.44
+155 Puebla Xochitlán Todos Santos $19.33 $10.44
+155 Puebla Yehualtepec $19.33 $10.44
+155 Puebla Zapotitlán $19.33 $10.44
+155 Puebla Zinacatepec $19.33 $10.44
+155 Puebla Zoquitlán $19.33 $10.44
+156 Puebla Atempan $19.41 $10.48
+156 Puebla Ayotoxco de Guerrero $19.41 $10.48
+156 Puebla Chignautla $19.41 $10.48
+156 Puebla Cuetzalan del Progreso $19.41 $10.48
+156 Puebla Cuyoaco $19.41 $10.48
+156 Puebla Hueyapan $19.41 $10.48
+156 Puebla Libres $19.41 $10.48
+156 Puebla Ocotepec $19.41 $10.48
+156 Puebla Oriental $19.41 $10.48
+156 Puebla Tenampulco $19.41 $10.48
+156 Puebla Teteles de Ávila Castillo $19.41 $10.48
+49 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+156 Puebla Teziutlán $19.41 $10.48
+156 Puebla Tlatlauquitepec $19.41 $10.48
+156 Puebla Xiutetelco $19.41 $10.48
+156 Puebla Xochiapulco $19.41 $10.48
+156 Puebla Yaonáhuac $19.41 $10.48
+156 Puebla Zacapoaxtla $19.41 $10.48
+156 Puebla Zaragoza $19.41 $10.48
+156 Puebla Zautla $19.41 $10.48
+157 Querétaro Landa de Matamoros $19.58 $10.57
+158 Hidalgo Tecozautla $19.37 $10.46
+158 Querétaro Amealco de Bonfil $19.37 $10.46
+158 Querétaro Arroyo Seco $19.37 $10.46
+158 Querétaro Cadereyta de Montes $19.37 $10.46
+158 Querétaro Colón $19.37 $10.46
+158 Querétaro Corregidora $19.37 $10.46
+158 Querétaro El Marqués $19.37 $10.46
+158 Querétaro Ezequiel Montes $19.37 $10.46
+158 Querétaro Huimilpan $19.37 $10.46
+158 Querétaro Jalpan de Serra $19.37 $10.46
+158 Querétaro Pedro Escobedo $19.37 $10.46
+158 Querétaro Peñamiller $19.37 $10.46
+158 Querétaro Pinal de Amoles $19.37 $10.46
+158 Querétaro Querétaro $19.37 $10.46
+158 Querétaro San Joaquín $19.37 $10.46
+158 Querétaro San Juan del Río $19.37 $10.46
+158 Querétaro Tequisquiapan $19.37 $10.46
+158 Querétaro Tolimán $19.37 $10.46
+159 Quintana Roo Benito Juárez $20.98 $11.33
+159 Quintana Roo Isla Mujeres $20.98 $11.33
+159 Quintana Roo Puerto Morelos $20.98 $11.33
+159 Quintana Roo Solidaridad $20.98 $11.33
+159 Quintana Roo Tulum $20.98 $11.33
+160 Quintana Roo Cozumel $21.76 $11.75
+161 Quintana Roo Felipe Carrillo Puerto $20.40 $11.01
+161 Quintana Roo José María Morelos $20.40 $11.01
+162 Quintana Roo Othón P. Blanco $19.27 $10.41
+50 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+162 Quintana Roo Bacalar $20.70 $11.18
+163 San Luis Potosí Alaquines $21.67 $11.70
+163 San Luis Potosí Cárdenas $21.67 $11.70
+164 Hidalgo Atlapexco $19.89 $10.74
+164 Hidalgo Calnali $19.89 $10.74
+164 Hidalgo Huautla $19.89 $10.74
+164 Hidalgo Huazalingo $19.89 $10.74
+164 Hidalgo Huejutla de Reyes $19.89 $10.74
+164 Hidalgo Jaltocán $19.89 $10.74
+164 Hidalgo San Felipe Orizatlán $19.89 $10.74
+164 Hidalgo Tlanchinol $19.89 $10.74
+164 Hidalgo Xochiatipan $19.89 $10.74
+164 Hidalgo Yahualica $19.89 $10.74
+164 San Luis Potosí Aquismón $19.89 $10.74
+164 San Luis Potosí Axtla de Terrazas $19.89 $10.74
+164 San Luis Potosí Ciudad del Maíz $19.89 $10.74
+164 San Luis Potosí Ciudad Valles $19.89 $10.74
+164 San Luis Potosí Coxcatlán $19.89 $10.74
+164 San Luis Potosí El Naranjo $19.89 $10.74
+164 San Luis Potosí Huehuetlán $19.89 $10.74
+164 San Luis Potosí Matlapa $19.89 $10.74
+164 San Luis Potosí San Antonio $19.89 $10.74
+164 San Luis Potosí San Martín Chalchicuautla $19.89 $10.74
+164 San Luis Potosí San Vicente Tancuayalab $19.89 $10.74
+164 San Luis Potosí Tamasopo $19.89 $10.74
+164 San Luis Potosí Tampacán $19.89 $10.74
+164 San Luis Potosí Tampamolón Corona $19.89 $10.74
+164 San Luis Potosí Tamuín $19.89 $10.74
+164 San Luis Potosí Tancanhuitz $19.89 $10.74
+164 San Luis Potosí Tanlajás $19.89 $10.74
+164 San Luis Potosí Tanquián de Escobedo $19.89 $10.74
+164 San Luis Potosí Xilitla $19.89 $10.74
+164 Veracruz de Ignacio de la Llave Cerro Azul $19.89 $10.74
+164 Veracruz de Ignacio de la Llave Chalma $19.89 $10.74
+164 Veracruz de Ignacio de la Llave Chiconamel $19.89 $10.74
+164 Veracruz de Ignacio de la Llave Chinampa de Gorostiza $19.89 $10.74
+51 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+164 Veracruz de Ignacio de la Llave Chontla $19.89 $10.74
+164 Veracruz de Ignacio de la Llave Citlaltépetl $19.89 $10.74
+164 Veracruz de Ignacio de la Llave El Higo $19.89 $10.74
+164 Veracruz de Ignacio de la Llave Ixcatepec $19.89 $10.74
+164 Veracruz de Ignacio de la Llave Ozuluama de Mascareñas $19.89 $10.74
+164 Veracruz de Ignacio de la Llave Pánuco $19.89 $10.74
+164 Veracruz de Ignacio de la Llave Platón Sánchez $19.89 $10.74
+164 Veracruz de Ignacio de la Llave Tamalín $19.89 $10.74
+164 Veracruz de Ignacio de la Llave Tancoco $19.89 $10.74
+164 Veracruz de Ignacio de la Llave Tantima $19.89 $10.74
+164 Veracruz de Ignacio de la Llave Tempoal $19.89 $10.74
+164 Veracruz de Ignacio de la Llave Tepetzintla $19.89 $10.74
+165 San Luis Potosí Ebano $19.56 $10.56
+166 San Luis Potosí Catorce $20.99 $11.33
+166 San Luis Potosí Cedral $20.99 $11.33
+166 San Luis Potosí Charcas $20.99 $11.33
+166 San Luis Potosí Matehuala $20.99 $11.33
+166 San Luis Potosí Santo Domingo $20.99 $11.33
+166 San Luis Potosí Vanegas $20.99 $11.33
+166 San Luis Potosí Venado $20.99 $11.33
+166 San Luis Potosí Villa de Guadalupe $20.99 $11.33
+166 San Luis Potosí Villa de la Paz $20.99 $11.33
+166 Zacatecas El Salvador $20.99 $11.33
+167 San Luis Potosí Cerritos $19.93 $10.76
+167 San Luis Potosí Ciudad Fernández $19.93 $10.76
+167 San Luis Potosí Guadalcázar $19.93 $10.76
+167 San Luis Potosí Lagunillas $19.93 $10.76
+167 San Luis Potosí Rayón $19.93 $10.76
+167 San Luis Potosí Rioverde $19.93 $10.76
+167 San Luis Potosí San Ciro de Acosta $19.93 $10.76
+167 San Luis Potosí San Nicolás Tolentino $19.93 $10.76
+167 San Luis Potosí Santa Catarina $19.93 $10.76
+167 San Luis Potosí Villa Juárez $19.93 $10.76
+167 San Luis Potosí Zaragoza $19.93 $10.76
+168 San Luis Potosí Ahualulco del Sonido 13 $21.08 $11.38
+168 San Luis Potosí Armadillo de los Infante $21.08 $11.38
+52 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+168 San Luis Potosí Cerro de San Pedro $21.08 $11.38
+168 San Luis Potosí Mexquitic de Carmona $21.08 $11.38
+168 San Luis Potosí Moctezuma $21.08 $11.38
+168 San Luis Potosí Salinas $21.08 $11.38
+168 San Luis Potosí San Luis Potosí $21.08 $11.38
+168 San Luis Potosí Santa María del Río $21.08 $11.38
+168 San Luis Potosí Soledad de Graciano Sánchez $21.08 $11.38
+168 San Luis Potosí Tierra Nueva $21.08 $11.38
+168 San Luis Potosí Villa de Arista $21.08 $11.38
+168 San Luis Potosí Villa de Arriaga $21.08 $11.38
+168 San Luis Potosí Villa de Reyes $21.08 $11.38
+168 San Luis Potosí Villa Hidalgo $21.08 $11.38
+169 Hidalgo Chapulhuacán $19.75 $10.66
+169 Hidalgo Pisaflores $19.75 $10.66
+169 Hidalgo Tepehuacán de Guerrero $19.75 $10.66
+169 San Luis Potosí Tamazunchale $19.75 $10.66
+170 Sinaloa Ahome $21.33 $11.52
+170 Sinaloa Choix $21.33 $11.52
+170 Sinaloa El Fuerte $21.33 $11.52
+171 Sinaloa Badiraguato $21.16 $11.43
+171 Sinaloa Culiacán $21.16 $11.43
+171 Sinaloa Guasave $21.16 $11.43
+171 Sinaloa Navolato $21.16 $11.43
+171 Sinaloa Sinaloa $21.16 $11.43
+172 Durango Tamazula $23.31 $12.59
+172 Sinaloa Cosalá $23.31 $12.59
+172 Sinaloa Elota $23.31 $12.59
+172 Sinaloa San Ignacio $23.31 $12.59
+173 Sinaloa Concordia $20.59 $11.12
+173 Sinaloa Escuinapa $20.59 $11.12
+173 Sinaloa Mazatlán $20.59 $11.12
+173 Sinaloa Rosario $20.59 $11.12
+174 Sinaloa Angostura $22.85 $12.34
+174 Sinaloa Mocorito $22.85 $12.34
+174 Sinaloa Salvador Alvarado $22.85 $12.34
+53 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+175 Sonora Agua Prieta $18.73 $10.11
+175 Sonora Naco $18.73 $10.11
+175 Sonora Arizpe $20.12 $10.86
+175 Sonora Bacerac $20.12 $10.86
+175 Sonora Bacoachi $20.12 $10.86
+175 Sonora Bavispe $20.12 $10.86
+175 Sonora Cumpas $20.12 $10.86
+175 Sonora Fronteras $20.12 $10.86
+175 Sonora Huachinera $20.12 $10.86
+175 Sonora Nacozari de García $20.12 $10.86
+175 Sonora Villa Hidalgo $20.12 $10.86
+176 Sonora Álamos $20.26 $10.94
+177 Sonora Altar $19.36 $10.46
+177 Sonora Caborca $19.36 $10.46
+177 Sonora Oquitoa $20.80 $11.23
+177 Sonora Pitiquito $20.80 $11.23
+178 Sonora Bácum $20.71 $11.18
+178 Sonora Benito Juárez $20.71 $11.18
+178 Sonora Cajeme $20.71 $11.18
+178 Sonora Etchojoa $20.71 $11.18
+178 Sonora Huatabampo $20.71 $11.18
+178 Sonora Navojoa $20.71 $11.18
+178 Sonora Ónavas $20.71 $11.18
+178 Sonora Quiriego $20.71 $11.18
+178 Sonora Rosario $20.71 $11.18
+178 Sonora San Ignacio Río Muerto $20.71 $11.18
+178 Sonora Suaqui Grande $20.71 $11.18
+178 Sonora Yécora $20.71 $11.18
+179 Sonora Cananea $18.71 $10.11
+180 Sonora Empalme $20.72 $11.19
+180 Sonora Guaymas $20.72 $11.19
+181 Sonora Aconchi $20.29 $10.95
+181 Sonora Arivechi $20.29 $10.95
+181 Sonora Bacanora $20.29 $10.95
+181 Sonora Banámichi $20.29 $10.95
+181 Sonora Baviácora $20.29 $10.95
+54 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+181 Sonora Carbó $20.29 $10.95
+181 Sonora Divisaderos $20.29 $10.95
+181 Sonora Granados $20.29 $10.95
+181 Sonora Hermosillo $20.29 $10.95
+181 Sonora Huásabas $20.29 $10.95
+181 Sonora Huépac $20.29 $10.95
+181 Sonora La Colorada $20.29 $10.95
+181 Sonora Mazatán $20.29 $10.95
+181 Sonora Moctezuma $20.29 $10.95
+181 Sonora Rayón $20.29 $10.95
+181 Sonora Sahuaripa $20.29 $10.95
+181 Sonora San Felipe de Jesús $20.29 $10.95
+181 Sonora San Javier $20.29 $10.95
+181 Sonora San Miguel de Horcasitas $20.29 $10.95
+181 Sonora San Pedro de la Cueva $20.29 $10.95
+181 Sonora Soyopa $20.29 $10.95
+181 Sonora Tepache $20.29 $10.95
+181 Sonora Ures $20.29 $10.95
+181 Sonora Villa Pesqueira $20.29 $10.95
+182 Sonora Atil $20.15 $10.88
+182 Sonora Benjamín Hill $20.15 $10.88
+182 Sonora Cucurpe $20.15 $10.88
+182 Sonora Imuris $20.15 $10.88
+182 Sonora Magdalena $20.15 $10.88
+182 Sonora Opodepe $20.15 $10.88
+182 Sonora Santa Ana $20.15 $10.88
+182 Sonora Trincheras $20.15 $10.88
+182 Sonora Tubutama $20.15 $10.88
+182 Sonora Nogales $18.76 $10.13
+182 Sonora Santa Cruz $18.76 $10.13
+182 Sonora Sáric $18.76 $10.13
+183 Sonora General Plutarco Elías Calles $20.34 $10.98
+183 Sonora Puerto Peñasco $20.34 $10.98
+184 Sonora San Luis Río Colorado $20.15 $10.88
+185 Campeche Escárcega $19.75 $10.66
+185 Campeche Palizada $19.75 $10.66
+55 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+185 Chiapas Amatán $19.75 $10.66
+185 Chiapas Catazajá $19.75 $10.66
+185 Chiapas Chapultenango $19.75 $10.66
+185 Chiapas Coapilla $19.75 $10.66
+185 Chiapas Ixhuatán $19.75 $10.66
+185 Chiapas Ixtacomitán $19.75 $10.66
+185 Chiapas Ixtapangajoya $19.75 $10.66
+185 Chiapas Jitotol $19.75 $10.66
+185 Chiapas Juárez $19.75 $10.66
+185 Chiapas La Libertad $19.75 $10.66
+185 Chiapas Ocotepec $19.75 $10.66
+185 Chiapas Ostuacán $19.75 $10.66
+185 Chiapas Pantepec $19.75 $10.66
+185 Chiapas Pichucalco $19.75 $10.66
+185 Chiapas Pueblo Nuevo Solistahuacán $19.75 $10.66
+185 Chiapas Rayón $19.75 $10.66
+185 Chiapas Reforma $19.75 $10.66
+185 Chiapas Rincón Chamula San Pedro $19.75 $10.66
+185 Chiapas Salto de Agua $19.75 $10.66
+185 Chiapas Solosuchiapa $19.75 $10.66
+185 Chiapas Sunuapa $19.75 $10.66
+185 Chiapas Tapalapa $19.75 $10.66
+185 Chiapas Tapilula $19.75 $10.66
+185 Tabasco Cárdenas $19.75 $10.66
+185 Tabasco Centla $19.75 $10.66
+185 Tabasco Centro $19.75 $10.66
+185 Tabasco Comalcalco $19.75 $10.66
+185 Tabasco Cunduacán $19.75 $10.66
+185 Tabasco Emiliano Zapata $19.75 $10.66
+185 Tabasco Huimanguillo $19.75 $10.66
+185 Tabasco Jalapa $19.75 $10.66
+185 Tabasco Jalpa de Méndez $19.75 $10.66
+185 Tabasco Jonuta $19.75 $10.66
+185 Tabasco Macuspana $19.75 $10.66
+185 Tabasco Nacajuca $19.75 $10.66
+185 Tabasco Paraíso $19.75 $10.66
+56 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+185 Tabasco Tacotalpa $19.75 $10.66
+185 Tabasco Teapa $19.75 $10.66
+185 Campeche Calakmul $18.39 $9.93
+185 Campeche Candelaria $18.39 $9.93
+185 Chiapas Palenque $18.39 $9.93
+185 Tabasco Balancán $18.39 $9.93
+185 Tabasco Tenosique $18.39 $9.93
+186 Tamaulipas Abasolo $19.34 $10.45
+186 Tamaulipas Jiménez $19.34 $10.45
+187 Tamaulipas Ciudad Madero $19.95 $10.77
+187 Veracruz de Ignacio de la Llave Pueblo Viejo $19.95 $10.77
+187 Veracruz de Ignacio de la Llave Tampico Alto $19.95 $10.77
+188 Tamaulipas Antiguo Morelos $19.85 $10.72
+188 Tamaulipas El Mante $19.85 $10.72
+188 Tamaulipas Gómez Farías $19.85 $10.72
+188 Tamaulipas Llera $19.85 $10.72
+188 Tamaulipas Nuevo Morelos $19.85 $10.72
+188 Tamaulipas Xicoténcatl $19.85 $10.72
+189 Tamaulipas Aldama $19.69 $10.63
+189 Tamaulipas González $19.69 $10.63
+190 Tamaulipas Guerrero $18.70 $10.10
+190 Tamaulipas Mier $18.70 $10.10
+190 Tamaulipas Miguel Alemán $18.70 $10.10
+191 Nuevo León Anáhuac $18.85 $10.18
+191 Tamaulipas Nuevo Laredo $18.85 $10.18
+192 Tamaulipas Camargo $18.70 $10.10
+192 Tamaulipas Gustavo Díaz Ordaz $18.70 $10.10
+192 Tamaulipas Matamoros $18.70 $10.10
+192 Tamaulipas Reynosa $18.70 $10.10
+192 Tamaulipas Río Bravo $18.70 $10.10
+192 Tamaulipas Valle Hermoso $18.70 $10.10
+193 Tamaulipas Cruillas $19.60 $10.58
+193 Tamaulipas Méndez $19.60 $10.58
+193 Tamaulipas San Fernando $19.60 $10.58
+193 Tamaulipas San Nicolás $19.60 $10.58
+194 Tamaulipas Altamira $19.96 $10.78
+57 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+194 Tamaulipas Tampico $19.96 $10.78
+195 Tamaulipas Bustamante $20.83 $11.25
+195 Tamaulipas Jaumave $20.83 $11.25
+195 Tamaulipas Miquihuana $20.83 $11.25
+195 Tamaulipas Ocampo $20.83 $11.25
+195 Tamaulipas Palmillas $20.83 $11.25
+195 Tamaulipas Tula $20.83 $11.25
+196 Tamaulipas Casas $19.79 $10.68
+196 Tamaulipas Güémez $19.79 $10.68
+196 Tamaulipas Hidalgo $19.79 $10.68
+196 Tamaulipas Mainero $19.79 $10.68
+196 Tamaulipas Padilla $19.79 $10.68
+196 Tamaulipas San Carlos $19.79 $10.68
+196 Tamaulipas Soto la Marina $19.79 $10.68
+196 Tamaulipas Victoria $19.79 $10.68
+196 Tamaulipas Villagrán $19.79 $10.68
+197 Puebla Ixtacamaxtitlán $18.96 $10.24
+197 Puebla Nopalucan $18.96 $10.24
+197 Puebla Rafael Lara Grajales $18.96 $10.24
+197 Puebla San José Chiapa $18.96 $10.24
+197 Puebla Tepatlaxco de Hidalgo $18.96 $10.24
+197 Tlaxcala Acuamanala de Miguel Hidalgo $18.96 $10.24
+197 Tlaxcala Amaxac de Guerrero $18.96 $10.24
+197 Tlaxcala Apetatitlán de Antonio Carvajal $18.96 $10.24
+197 Tlaxcala Apizaco $18.96 $10.24
+197 Tlaxcala Atlangatepec $18.96 $10.24
+197 Tlaxcala Atltzayanca $18.96 $10.24
+197 Tlaxcala Contla de Juan Cuamatzi $18.96 $10.24
+197 Tlaxcala Cuapiaxtla $18.96 $10.24
+197 Tlaxcala Cuaxomulco $18.96 $10.24
+197 Tlaxcala El Carmen Tequexquitla $18.96 $10.24
+197 Tlaxcala Emiliano Zapata $18.96 $10.24
+197 Tlaxcala Huamantla $18.96 $10.24
+197 Tlaxcala Hueyotlipan $18.96 $10.24
+197 Tlaxcala Ixtenco $18.96 $10.24
+197 Tlaxcala La Magdalena Tlaltelulco $18.96 $10.24
+58 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+197 Tlaxcala Lázaro Cárdenas $18.96 $10.24
+197 Tlaxcala Mazatecochco de José María Morelos $18.96 $10.24
+197 Tlaxcala Muñoz de Domingo Arenas $18.96 $10.24
+197 Tlaxcala Papalotla de Xicohténcatl $18.96 $10.24
+197 Tlaxcala San Damián Texóloc $18.96 $10.24
+197 Tlaxcala San Francisco Tetlanohcan $18.96 $10.24
+197 Tlaxcala San Jerónimo Zacualpan $18.96 $10.24
+197 Tlaxcala San José Teacalco $18.96 $10.24
+197 Tlaxcala San Juan Huactzinco $18.96 $10.24
+197 Tlaxcala San Lorenzo Axocomanitla $18.96 $10.24
+197 Tlaxcala San Lucas Tecopilco $18.96 $10.24
+197 Tlaxcala Santa Apolonia Teacalco $18.96 $10.24
+197 Tlaxcala Santa Catarina Ayometla $18.96 $10.24
+197 Tlaxcala Santa Cruz Quilehtla $18.96 $10.24
+197 Tlaxcala Santa Cruz Tlaxcala $18.96 $10.24
+197 Tlaxcala Santa Isabel Xiloxoxtla $18.96 $10.24
+197 Tlaxcala Tenancingo $18.96 $10.24
+197 Tlaxcala Teolocholco $18.96 $10.24
+197 Tlaxcala Tepeyanco $18.96 $10.24
+197 Tlaxcala Terrenate $18.96 $10.24
+197 Tlaxcala Tetla de la Solidaridad $18.96 $10.24
+197 Tlaxcala Tetlatlahuca $18.96 $10.24
+197 Tlaxcala Tlaxco $18.96 $10.24
+197 Tlaxcala Tocatlán $18.96 $10.24
+197 Tlaxcala Totolac $18.96 $10.24
+197 Tlaxcala Tzompantepec $18.96 $10.24
+197 Tlaxcala Xaloztoc $18.96 $10.24
+197 Tlaxcala Xaltocan $18.96 $10.24
+197 Tlaxcala Xicohtzinco $18.96 $10.24
+197 Tlaxcala Yauhquemehcan $18.96 $10.24
+197 Tlaxcala Zacatelco $18.96 $10.24
+197 TlaxcalaZiltlaltépec de Trinidad Sánchez 
+Santos$18.96 $10.24
+198 Veracruz de Ignacio de la Llave Acayucan $19.60 $10.58
+198 Veracruz de Ignacio de la Llave Jesús Carranza $19.60 $10.58
+59 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+198 Veracruz de Ignacio de la Llave San Juan Evangelista $19.60 $10.58
+198 Veracruz de Ignacio de la Llave Sayula de Alemán $19.60 $10.58
+199 Veracruz de Ignacio de la Llave Agua Dulce $19.53 $10.55
+199 Veracruz de Ignacio de la Llave Chinameca $19.53 $10.55
+199 Veracruz de Ignacio de la Llave Coatzacoalcos $19.53 $10.55
+199 Veracruz de Ignacio de la Llave Cosoleacaque $19.53 $10.55
+199 Veracruz de Ignacio de la Llave Hidalgotitlán $19.53 $10.55
+199 Veracruz de Ignacio de la Llave Ixhuatlán del Sureste $19.53 $10.55
+199 Veracruz de Ignacio de la Llave Jáltipan $19.53 $10.55
+199 Veracruz de Ignacio de la Llave Las Choapas $19.53 $10.55
+199 Veracruz de Ignacio de la Llave Minatitlán $19.53 $10.55
+199 Veracruz de Ignacio de la Llave Moloacán $19.53 $10.55
+199 Veracruz de Ignacio de la Llave Nanchital de Lázaro Cárdenas del Río $19.53 $10.55
+199 Veracruz de Ignacio de la Llave Oteapan $19.53 $10.55
+199 Veracruz de Ignacio de la Llave Pajapan $19.53 $10.55
+199 Veracruz de Ignacio de la Llave Tatahuicapan de Juárez $19.53 $10.55
+199 Veracruz de Ignacio de la Llave Texistepec $19.53 $10.55
+199 Veracruz de Ignacio de la Llave Zaragoza $19.53 $10.55
+200 Oaxaca Cosolapa $19.51 $10.54
+200 Puebla Chichiquila $19.51 $10.54
+200 Puebla Chilchotla $19.51 $10.54
+200 Puebla Quimixtlán $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Acultzingo $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Alpatláhuac $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Amatlán de los Reyes $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Aquila $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Astacinga $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Atlahuilco $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Atoyac $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Atzacan $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Calcahualco $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Camarón de Tejeda $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Camerino Z. Mendoza $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Carrillo Puerto $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Chocamán $19.51 $10.54
+60 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+200 Veracruz de Ignacio de la Llave Coetzala $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Comapa $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Córdoba $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Coscomatepec $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Cuichapa $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Cuitláhuac $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Fortín $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Huatusco $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Huiloapan de Cuauhtémoc $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Ixhuatlán del Café $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Ixhuatlancillo $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Ixtaczoquitlán $19.51 $10.54
+200 Veracruz de Ignacio de la Llave La Perla $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Los Reyes $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Magdalena $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Maltrata $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Mariano Escobedo $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Mixtla de Altamirano $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Naranjal $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Nogales $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Omealca $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Orizaba $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Paso del Macho $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Rafael Delgado $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Río Blanco $19.51 $10.54
+200 Veracruz de Ignacio de la Llave San Andrés Tenejapan $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Sochiapa $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Soledad Atzompa $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Tehuipango $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Tepatlaxco $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Tequila $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Texhuacán $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Tezonapa $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Tlacotepec de Mejía $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Tlaquilpa $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Tlilapan $19.51 $10.54
+61 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+200 Veracruz de Ignacio de la Llave Tomatlán $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Totutla $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Xoxocotla $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Yanga $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Zentla $19.51 $10.54
+200 Veracruz de Ignacio de la Llave Zongolica $19.51 $10.54
+201 Puebla Amixtlán $19.58 $10.57
+201 Puebla Atlequizayan $19.58 $10.57
+201 Puebla Camocuautla $19.58 $10.57
+201 Puebla Caxhuacan $19.58 $10.57
+201 Puebla Coatepec $19.58 $10.57
+201 Puebla Cuautempan $19.58 $10.57
+201 Puebla Hermenegildo Galeana $19.58 $10.57
+201 Puebla Huehuetla $19.58 $10.57
+201 Puebla Hueytlalpan $19.58 $10.57
+201 Puebla Huitzilan de Serdán $19.58 $10.57
+201 Puebla Ixtepec $19.58 $10.57
+201 Puebla Jonotla $19.58 $10.57
+201 Puebla Nauzontla $19.58 $10.57
+201 Puebla Olintla $19.58 $10.57
+201 Puebla San Felipe Tepatlán $19.58 $10.57
+201 Puebla Tepango de Rodríguez $19.58 $10.57
+201 Puebla Tepetzintla $19.58 $10.57
+201 Puebla Tuzamapan de Galeana $19.58 $10.57
+201 Puebla Xochitlán de Vicente Suárez $19.58 $10.57
+201 Puebla Zapotitlán de Méndez $19.58 $10.57
+201 Puebla Zongozotla $19.58 $10.57
+201 Puebla Zoquiapan $19.58 $10.57
+201 Veracruz de Ignacio de la Llave Chumatlán $19.58 $10.57
+201 Veracruz de Ignacio de la Llave Coahuitlán $19.58 $10.57
+201 Veracruz de Ignacio de la Llave Coxquihui $19.58 $10.57
+201 Veracruz de Ignacio de la Llave Coyutla $19.58 $10.57
+201 Veracruz de Ignacio de la Llave Espinal $19.58 $10.57
+201 Veracruz de Ignacio de la Llave Filomeno Mata $19.58 $10.57
+201 Veracruz de Ignacio de la Llave Mecatlán $19.58 $10.57
+201 Veracruz de Ignacio de la Llave Zozocolco de Hidalgo $19.58 $10.57
+62 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+202 Puebla Francisco Z. Mena $19.34 $10.44
+202 Veracruz de Ignacio de la Llave Ixhuatlán de Madero $19.34 $10.44
+203 Veracruz de Ignacio de la Llave Jamapa $19.81 $10.70
+203 Veracruz de Ignacio de la Llave La Antigua $19.81 $10.70
+203 Veracruz de Ignacio de la Llave Manlio Fabio Altamirano $19.81 $10.70
+203 Veracruz de Ignacio de la Llave Paso de Ovejas $19.81 $10.70
+203 Veracruz de Ignacio de la Llave Puente Nacional $19.81 $10.70
+203 Veracruz de Ignacio de la Llave Soledad de Doblado $19.81 $10.70
+203 Veracruz de Ignacio de la Llave Ursulo Galván $19.81 $10.70
+204 Puebla Pantepec $19.46 $10.51
+204 Puebla Venustiano Carranza $19.46 $10.51
+204 Veracruz de Ignacio de la Llave Álamo Temapache $19.46 $10.51
+204 Veracruz de Ignacio de la Llave Benito Juárez $19.46 $10.51
+204 Veracruz de Ignacio de la Llave Castillo de Teayo $19.46 $10.51
+204 Veracruz de Ignacio de la Llave Cazones de Herrera $19.46 $10.51
+204 Veracruz de Ignacio de la Llave Chicontepec $19.46 $10.51
+204 Veracruz de Ignacio de la Llave Coatzintla $19.46 $10.51
+204 Veracruz de Ignacio de la Llave Gutiérrez Zamora $19.46 $10.51
+204 Veracruz de Ignacio de la Llave Ilamatlán $19.46 $10.51
+204 Veracruz de Ignacio de la Llave Naranjos Amatlán $19.46 $10.51
+204 Veracruz de Ignacio de la Llave Papantla $19.46 $10.51
+204 Veracruz de Ignacio de la Llave Poza Rica de Hidalgo $19.46 $10.51
+204 Veracruz de Ignacio de la Llave San Rafael $19.46 $10.51
+204 Veracruz de Ignacio de la Llave Tamiahua $19.46 $10.51
+204 Veracruz de Ignacio de la Llave Tantoyuca $19.46 $10.51
+204 Veracruz de Ignacio de la Llave Tecolutla $19.46 $10.51
+204 Veracruz de Ignacio de la Llave Texcatepec $19.46 $10.51
+204 Veracruz de Ignacio de la Llave Tihuatlán $19.46 $10.51
+204 Veracruz de Ignacio de la Llave Tlachichilco $19.46 $10.51
+204 Veracruz de Ignacio de la Llave Tuxpan $19.46 $10.51
+204 Veracruz de Ignacio de la Llave Zacualpan $19.46 $10.51
+204 Veracruz de Ignacio de la Llave Zontecomatlán de López y Fuentes $19.46 $10.51
+205 Veracruz de Ignacio de la Llave Mecayapan $19.98 $10.79
+205 Veracruz de Ignacio de la Llave Oluta $19.98 $10.79
+205 Veracruz de Ignacio de la Llave Soconusco $19.98 $10.79
+205 Veracruz de Ignacio de la Llave Soteapan $19.98 $10.79
+63 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+206 Veracruz de Ignacio de la Llave Acula $19.49 $10.52
+206 Veracruz de Ignacio de la Llave Alvarado $19.49 $10.52
+206 Veracruz de Ignacio de la Llave Amatitlán $19.49 $10.52
+206 Veracruz de Ignacio de la Llave Angel R. Cabada $19.49 $10.52
+206 Veracruz de Ignacio de la Llave Boca del Río $19.49 $10.52
+206 Veracruz de Ignacio de la Llave Catemaco $19.49 $10.52
+206 Veracruz de Ignacio de la Llave Hueyapan de Ocampo $19.49 $10.52
+206 Veracruz de Ignacio de la Llave Ignacio de la Llave $19.49 $10.52
+206 Veracruz de Ignacio de la Llave Lerdo de Tejada $19.49 $10.52
+206 Veracruz de Ignacio de la Llave Medellín de Bravo $19.49 $10.52
+206 Veracruz de Ignacio de la Llave Saltabarranca $19.49 $10.52
+206 Veracruz de Ignacio de la Llave San Andrés Tuxtla $19.49 $10.52
+206 Veracruz de Ignacio de la Llave Santiago Tuxtla $19.49 $10.52
+206 Veracruz de Ignacio de la Llave Tlacotalpan $19.49 $10.52
+206 Veracruz de Ignacio de la Llave Tlalixcoyan $19.49 $10.52
+206 Veracruz de Ignacio de la Llave Veracruz $19.49 $10.52
+207 Puebla Acateno $19.41 $10.48
+207 Puebla Hueytamalco $19.41 $10.48
+207 Puebla Tepeyahualco $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Acajete $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Acatlán $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Actopan $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Alto Lucero de Gutiérrez Barrios $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Altotonga $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Apazapan $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Atzalan $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Ayahualulco $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Banderilla $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Chiconquiaco $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Coacoatzintla $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Coatepec $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Colipa $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Cosautlán de Carvajal $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Emiliano Zapata $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Ixhuacán de los Reyes $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Jalacingo $19.41 $10.48
+64 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+207 Veracruz de Ignacio de la Llave Jalcomulco $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Jilotepec $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Juchique de Ferrer $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Landero y Coss $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Las Minas $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Las Vigas de Ramírez $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Martínez de la Torre $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Miahuatlán $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Misantla $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Naolinco $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Nautla $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Perote $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Rafael Lucio $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Tatatila $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Tenampa $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Tenochtitlán $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Teocelo $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Tepetlán $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Tlacolulan $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Tlalnelhuayocan $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Tlaltetela $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Tlapacoyan $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Tonayán $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Vega de Alatorre $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Villa Aldama $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Xalapa $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Xico $19.41 $10.48
+207 Veracruz de Ignacio de la Llave Yecuatla $19.41 $10.48
+208 Campeche Calkiní $20.20 $10.91
+208 Campeche Dzitbalché $20.20 $10.91
+208 Campeche Hecelchakán $20.20 $10.91
+208 Campeche Hopelchén $20.20 $10.91
+208 Yucatán Abalá $20.20 $10.91
+208 Yucatán Acanceh $20.20 $10.91
+208 Yucatán Akil $20.20 $10.91
+208 Yucatán Baca $20.20 $10.91
+65 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+208 Yucatán Celestún $20.20 $10.91
+208 Yucatán Chacsinkín $20.20 $10.91
+208 Yucatán Chapab $20.20 $10.91
+208 Yucatán Chicxulub Pueblo $20.20 $10.91
+208 Yucatán Chocholá $20.20 $10.91
+208 Yucatán Chumayel $20.20 $10.91
+208 Yucatán Conkal $20.20 $10.91
+208 Yucatán Cuzamá $20.20 $10.91
+208 Yucatán Dzan $20.20 $10.91
+208 Yucatán Dzemul $20.20 $10.91
+208 Yucatán Halachó $20.20 $10.91
+208 Yucatán Hunucmá $20.20 $10.91
+208 Yucatán Ixil $20.20 $10.91
+208 Yucatán Kanasín $20.20 $10.91
+208 Yucatán Kinchil $20.20 $10.91
+208 Yucatán Kopomá $20.20 $10.91
+208 Yucatán Mama $20.20 $10.91
+208 Yucatán Maní $20.20 $10.91
+208 Yucatán Maxcanú $20.20 $10.91
+208 Yucatán Mayapán $20.20 $10.91
+208 Yucatán Mérida $20.20 $10.91
+208 Yucatán Mocochá $20.20 $10.91
+208 Yucatán Muna $20.20 $10.91
+208 Yucatán Muxupip $20.20 $10.91
+208 Yucatán Opichén $20.20 $10.91
+208 Yucatán Oxkutzcab $20.20 $10.91
+208 Yucatán Peto $20.20 $10.91
+208 Yucatán Progreso $20.20 $10.91
+208 Yucatán Sacalum $20.20 $10.91
+208 Yucatán Samahil $20.20 $10.91
+208 Yucatán Santa Elena $20.20 $10.91
+208 Yucatán Tahdziú $20.20 $10.91
+208 Yucatán Teabo $20.20 $10.91
+208 Yucatán Tecoh $20.20 $10.91
+208 Yucatán Tekax $20.20 $10.91
+208 Yucatán Tekit $20.20 $10.91
+66 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+208 Yucatán Tetiz $20.20 $10.91
+208 Yucatán Ticul $20.20 $10.91
+208 Yucatán Timucuy $20.20 $10.91
+208 Yucatán Tixmehuac $20.20 $10.91
+208 Yucatán Tzucacab $20.20 $10.91
+208 Yucatán Ucú $20.20 $10.91
+208 Yucatán Umán $20.20 $10.91
+209 Quintana Roo Lázaro Cárdenas $20.33 $10.98
+209 Yucatán Bokobá $20.33 $10.98
+209 Yucatán Buctzotz $20.33 $10.98
+209 Yucatán Cacalchén $20.33 $10.98
+209 Yucatán Calotmul $20.33 $10.98
+209 Yucatán Cansahcab $20.33 $10.98
+209 Yucatán Cantamayec $20.33 $10.98
+209 Yucatán Cenotillo $20.33 $10.98
+209 Yucatán Chankom $20.33 $10.98
+209 Yucatán Chemax $20.33 $10.98
+209 Yucatán Chichimilá $20.33 $10.98
+209 Yucatán Chikindzonot $20.33 $10.98
+209 Yucatán Cuncunul $20.33 $10.98
+209 Yucatán Dzidzantún $20.33 $10.98
+209 Yucatán Dzilam de Bravo $20.33 $10.98
+209 Yucatán Dzilam González $20.33 $10.98
+209 Yucatán Dzitás $20.33 $10.98
+209 Yucatán Dzoncauich $20.33 $10.98
+209 Yucatán Espita $20.33 $10.98
+209 Yucatán Hocabá $20.33 $10.98
+209 Yucatán Hoctún $20.33 $10.98
+209 Yucatán Homún $20.33 $10.98
+209 Yucatán Huhí $20.33 $10.98
+209 Yucatán Izamal $20.33 $10.98
+209 Yucatán Kantunil $20.33 $10.98
+209 Yucatán Kaua $20.33 $10.98
+209 Yucatán Motul $20.33 $10.98
+209 Yucatán Panabá $20.33 $10.98
+209 Yucatán Quintana Roo $20.33 $10.98
+67 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+209 Yucatán Río Lagartos $20.33 $10.98
+209 Yucatán San Felipe $20.33 $10.98
+209 Yucatán Sanahcat $20.33 $10.98
+209 Yucatán Seyé $20.33 $10.98
+209 Yucatán Sinanché $20.33 $10.98
+209 Yucatán Sotuta $20.33 $10.98
+209 Yucatán Sucilá $20.33 $10.98
+209 Yucatán Sudzal $20.33 $10.98
+209 Yucatán Suma $20.33 $10.98
+209 Yucatán Tahmek $20.33 $10.98
+209 Yucatán Tekal de Venegas $20.33 $10.98
+209 Yucatán Tekantó $20.33 $10.98
+209 Yucatán Tekom $20.33 $10.98
+209 Yucatán Telchac Pueblo $20.33 $10.98
+209 Yucatán Telchac Puerto $20.33 $10.98
+209 Yucatán Temax $20.33 $10.98
+209 Yucatán Temozón $20.33 $10.98
+209 Yucatán Tepakán $20.33 $10.98
+209 Yucatán Teya $20.33 $10.98
+209 Yucatán Tinum $20.33 $10.98
+209 Yucatán Tixcacalcupul $20.33 $10.98
+209 Yucatán Tixkokob $20.33 $10.98
+209 Yucatán Tixpéhual $20.33 $10.98
+209 Yucatán Tizimín $20.33 $10.98
+209 Yucatán Tunkás $20.33 $10.98
+209 Yucatán Uayma $20.33 $10.98
+209 Yucatán Valladolid $20.33 $10.98
+209 Yucatán Xocchel $20.33 $10.98
+209 Yucatán Yaxcabá $20.33 $10.98
+209 Yucatán Yaxkukul $20.33 $10.98
+209 Yucatán Yobaín $20.33 $10.98
+210 Jalisco Bolaños $21.89 $11.82
+210 Jalisco Chimaltitán $21.89 $11.82
+210 Jalisco Huejuquilla el Alto $21.89 $11.82
+210 Jalisco Mezquitic $21.89 $11.82
+210 Jalisco San Martín de Bolaños $21.89 $11.82
+68 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+210 Jalisco Totatiche $21.89 $11.82
+210 Jalisco Villa Guerrero $21.89 $11.82
+210 Zacatecas Calera $21.89 $11.82
+210 Zacatecas Fresnillo $21.89 $11.82
+210 Zacatecas Monte Escobedo $21.89 $11.82
+210 Zacatecas Morelos $21.89 $11.82
+210 Zacatecas Valparaíso $21.89 $11.82
+210 Zacatecas Villanueva $21.89 $11.82
+210 Zacatecas Zacatecas $21.89 $11.82
+211 Zacatecas General Enrique Estrada $21.63 $11.68
+212 San Luis Potosí Villa de Ramos $20.30 $10.96
+212 Zacatecas General Pánfilo Natera $20.30 $10.96
+212 Zacatecas Guadalupe $20.30 $10.96
+212 Zacatecas Pánuco $20.30 $10.96
+212 Zacatecas Trancoso $20.30 $10.96
+212 Zacatecas Vetagrande $20.30 $10.96
+213 Zacatecas Jerez $21.46 $11.59
+213 Zacatecas Susticacán $21.46 $11.59
+213 Zacatecas Tepetongo $21.46 $11.59
+214 Zacatecas Loreto $20.11 $10.86
+214 Zacatecas Noria de Ángeles $20.11 $10.86
+214 Zacatecas Villa González Ortega $20.11 $10.86
+215 Zacatecas Concepción del Oro $20.70 $11.18
+215 Zacatecas Mazapil $20.70 $11.18
+215 Zacatecas Melchor Ocampo $20.70 $11.18
+216 Zacatecas Ojocaliente $21.80 $11.77
+217 Jalisco Ojuelos de Jalisco $21.57 $11.65
+217 Zacatecas Pinos $21.57 $11.65
+217 Zacatecas Villa Hidalgo $21.57 $11.65
+218 Durango Santa Clara $20.77 $11.21
+218 Zacatecas Cañitas de Felipe Pescador $20.77 $11.21
+218 Zacatecas General Francisco R. Murguía $20.77 $11.21
+218 Zacatecas Juan Aldama $20.77 $11.21
+218 Zacatecas Miguel Auza $20.77 $11.21
+218 Zacatecas Río Grande $20.77 $11.21
+219 Zacatecas Chalchihuites $20.75 $11.21
+69 de 70
+Región Entidad Federativa MunicipioPrecio por 
+kilogramo 
+con IVAPrecio por 
+litro con 
+IVA
+219 Zacatecas Jiménez del Teul $20.75 $11.21
+219 Zacatecas Sain Alto $20.75 $11.21
+219 Zacatecas Sombrerete $20.75 $11.21
+220 Zacatecas Villa de Cos $20.66 $11.15
+70 de 70
